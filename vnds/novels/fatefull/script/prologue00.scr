@@ -1,0 +1,2079 @@
+cleartext !
+bgload typemoon.png
+delay 300
+bgload mirrormoon.png
+delay 300
+label nologo
+bgload mptta.jpg
+text It was a thrust like lightning.
+text A spearhead thrust to pierce my heart.
+text Trying to dodge it would be useless.
+text Being lightning, it's invisible to the human eye.
+delay 0
+sound se085.mp3
+delay 60
+sound se088.mp3
+bgload ljzvk.jpg
+delay 60
+sound se126.mp3
+bgload special/whiteout.jpg
+text But...
+text The lightning that tries to pierce me...
+text ...Is repelled by the moonlight that tries to save me.
+sound ~
+delay 0
+sound se136.mp3
+delay 60
+sound se017.mp3
+text Clang, a beautiful sound.
+text No, the sound before me is heavier than steel.
+text The armor she is wearing is not beautiful at all and as unrefined as the cold night.
+text The sound wasn't beautiful at all.
+text It was actually the sound of steel.
+text It's just that the knight is beautiful enough to turn it into a charming sound like a bell.
+sound ~
+sound prg01_sav_00.mp3
+text "------I ask of you. Are you my Master?"
+text She asks in a voice that lights up the darkness.
+sound ~
+bgload a06.jpg
+sound ggbad.mp3
+text "I have come forth in response to your summons.
+sound burpv.mp3
+text From this time forward, my sword shall be with you and your fate shall be with me. Now, our contract is complete."
+sound ~
+text Yes, the contract has been completed.
+text When she chose me as her Master...
+text I'm sure I swore to help her too.
+delay 0
+sound se271.mp3
+text The moonlight still lights up the darkness.
+text As if following the knight's example, the shed again falls silent.
+sound ~
+text Time has stopped.
+text The scene lasts less than a second.
+text But...
+text I'm sure I'll remember this scene vividly even when I've gone to hell.
+text The face slightly turned.
+text The quiet green eyes.
+text The instant becomes an eternity.
+text The blue outfit symbolizing her sways in the wind.
+text --------A faint blue light filters in.
+text The golden hair shines in the moonlight.
+bgload special/whiteout.jpg
+bgload fate.jpg
+text 
+bgload white.jpg
+music bgm42.mp3
+text This is a story from ten years ago.
+bgload black.jpg
+text ...I'm watching someone I know very well.
+text A tall man with a deep-featured face, who to my knowledge has never told a joke, is patting my head.
+text No, that's not quite right.
+text I guess he doesn't know how much strength to use. So to be more accurate, he's grabbing my head and mashing it around.
+text I guess that's only to be expected.
+text After all, that's the first time he's ever patted my head.
+text "I'll have to get going now. You know what to do now, right?"
+text I answer the deep voice with a polite "yes".
+text The man patting my head nods once, lets go, and stands up.
+text ...So, that was it.
+text If I'd known then that it was our final moment together, I would have made him laugh with my best jokes.
+text I had practiced telling jokes a lot, in hope that I could bring a smile to his grave face.
+text I guess you could say I was sad that I couldn't tell him any of them.
+bgload b16.jpg
+text "Put the Association in your debt by the time you mature. I'll let you decide what to do after that. You should be able to take care of yourself."
+text Even though he said such things, I guess he was still worried.
+text He told me about the heirloom jewels, the jewels inherited from the master, and how to manage the basement.
+text As he was telling me all the things I didn't yet know, I realized even as a child.
+text ------That most likely...
+text He wouldn't be coming back.
+bgload special/blackout.jpg
+text ...A war had started.
+text Not a war between countries, but a war between people.
+text But the only ones at war were seven people.
+text In a situation like this, the word "war" should be unsuitable, but here it's a different story as the ones in conflict are magi.
+text The seven magi, each from a different faction, had started to compete for unknown reasons and killed each other in unknown ways.
+text The man standing before me was one of them.
+text He too was in a position to kill or be killed.
+text He must have known more keenly than I did that his time was near.
+bgload b16.jpg
+text "Rin, the Holy Grail will appear eventually. It is our duty as the Tohsaka family to win it. More importantly, if you want to be a magus, you can't avoid it."
+text Once more,
+text he patted my head, and left.
+text That was the end.
+text That was the last time I saw the man, who entered the Holy Grail war as a master and died. The man who was my teacher as well as my father.
+bgload black.jpg
+sound prg01_krn_00.mp3
+text "Take care, Father."
+sound ~
+text I see him off politely.
+text I knew I was on the verge of crying, but I shed no tears.
+text I loved him.
+text He was a great father and a great magus.
+text Among magi, there are only obstinate people.
+text In the whole world, I don't think anyone had a better character than his.
+text He taught me as a teacher and loved me as a father.
+text That's why I decided...
+text To choose my path according to what he left me in the end.
+text '--------Rin, the Holy Grail will appear eventually.
+text It is our duty as the Tohsaka family to win it. More importantly, if you want to be a magus, you can't avoid it--------'
+text In the end, he left me those words as a magus and not as a father.
+text That is why at that moment, my path was determined.
+sound prg01_rin_00.mp3
+text "--------All right. I'll do my best to be a proper magus------"
+text It's only natural for a student to follow the words of their teacher.
+text Since then, through many twists and turns... I, Tohsaka Rin, have matured.
+music ~
+text It has been ten years since the winter day on which my father went to war.
+text I haven't exactly been waiting for this moment, but I am excited.
+text That's only natural.
+text The event I have never forgotten about is about to start--------
+bgload special/whiteout.jpg
+text ~
+text <DATE 01/31>
+text ~
+bgload white.jpg
+sound ~
+sound se016.mp3 1
+bgload jixip.jpg
+sound qtdwg.mp3
+text "...Hm."
+text Something is ringing.
+text Brrring. Brrring.
+sound vgifw.mp3
+text "...Shut up. Stop it."
+text The sound doesn't stop.
+text It rings loudly as if I'm an enemy.
+sound ~
+sound chyew.mp3
+text "...What? Come on, I was up late last night, so..."
+text It should let me sleep in a bit longer.
+text No, it has to let me sleep in.
+text I was deciphering my father's will until early this morning, and I've used up too much magical energy.
+text In other words, my mind and body are dead tired.
+sound ~
+sound slbse.mp3
+text "Ah, geez--------you're really stubborn."
+text Brring. Brring. Brring. Brring.
+text The alarm clock doesn't speak my language.
+text So why does the ringing sound like it's telling me "You're going to be late"?
+sound ~
+sound gzhmy.mp3
+text "...Late... Being late is bad..."
+text Though that depends on the situation.
+text I'm a good student, but maybe I can get to school at the last moment just for today.
+sound ~
+sound jwlib.mp3
+text "...That's right... I set the alarm thirty minutes early, so I should be able to sleep for thirty minutes more..."
+text --------Huh?
+text Isn't that strange?
+sound ~
+sound jlkci.mp3
+text "...Set it thirty minutes early...?"
+text I look at the alarm clock drowsily.
+text The clock is pointing exactly at seven.
+text I usually get up at six thirty, so the spare thirty minutes have already been used up.
+text ...Oh, why can't I think when I wake up.
+sound ~
+sound yhdfp.mp3
+text "...Hm."
+text I stare at the alarm clock for several seconds.
+sound ~
+text Shutting it off, I decide to get out of bed.
+sound ~
+bgload black.jpg
+delay 0
+sound se247.mp3
+music bgm03.mp3
+bgload jqmgw.jpg
+text Passing through the cold hallway, I enter the cold living room.
+text It's seven o'clock on the last day of January.
+text Fuyuki City is usually pretty warm in the winter, but this morning it's as cold as any other city.
+text I can even see my breath indoors, and on top of that, there's no one else in the house to warm it up.
+sound ~
+sound mrwcj.mp3
+text "Heater, heater..."
+text Turning on the heater, I head to the bathroom.
+text At times like this, living on your own is inconvenient.
+text If there were someone to wake up before me, the living room would be warm by now.
+sound ~
+delay 0
+sound se262.mp3
+text I wash my face at the sink.
+text I brush my long hair and get ready.
+text A cold morning, a cold sink.
+text The only advantage is that the cold water clears your sleepiness completely.
+sound ~
+text I tie my ribbon and I'm all ready.
+text All I have to do is eat breakfast and head out.
+text Looking at the clock, it's only a bit past seven, and I'm a bit disappointed.
+sound prg01_rin_01.mp3
+text "Man, I guess I don't have to run after all."
+text Then again, I would never do anything as clumsy as running to school anyway.
+text It is the custom of the Tohsaka family to act with composure and elegance at all times.
+sound ~
+music ~
+bgload cevuw.jpg
+text Taking a custom like that seriously must mean that my family originated from a very high-class background indeed.
+text Owning this old western-styled mansion is proof of that and on top of it, the Tohsaka family is a bloodline of sorcerers able to use the power of "Magic".
+text If you're talking about age, our family has an ancient history.
+sound cmxcw.mp3
+text "...Well, it's not something I can brag about."
+text Actually, I can't speak openly about it at all.
+text ------Oh, by the way. I, Tohsaka Rin, am a magus------
+text Who on earth can I brag to like that?
+sound ~
+text Magic is just what it sounds like... magic.
+text I don't care if you get ideas like abracadabra or whatever.
+text You can just think of us as people who do strange things by casting spells.
+text ------Oh, though it's not like we fly around on brooms or make stars appear with a wave of a wand.
+text ...Well, we could do that, but we don't bother as it's kind of meaningless.
+text We're basically heretics who hide ourselves from the world.
+text We're prohibited from standing out and even if we weren't, we would rather be at home studying magic.
+text On top of that, the word sorcerer is completely inaccurate.
+text To be precise, there are only five sorcerers in the world.
+text Things no one can do, things beyond the ability of modern science... The ones who can make such "miracles" are the ones we call sorcerers.
+text Miracles that can never be achieved, regardless of time or effort... those we call sorcery.
+text Those things that are mysterious, but achievable with time and effort... those we call magic.
+text That's why what I do is called magic rather than sorcery.
+text It's complicated, but that's how it is, so just accept it.
+text Well, to be honest, the modern world doesn't recognize the existence of magi.
+text As we believe, control, and learn things that are immeasurable, our existence is incompatible with the modern world.
+text Because it's kind of meaningless.
+text Going to a normal school and becoming a normal adult will bring you far more happiness than studying magic.
+text Human technology is great.
+text In the past few hundred years, it has been leading the way ahead of magic.
+text Nothing is impossible for humans.
+text The miracles once only possible through magic are now "tools" and not miraculous at all.
+text ------Still, magic has its good points.
+text Just as there are things possible only through science,
+text there are also things possible only through magic.
+text It was the master of the Tohsaka family who said that if science is moving toward the future, magic is moving toward the past.
+text Something about the past and the future ending up at the same place, everything always running toward the zero point.
+text Let's put off all these difficult discussions. They should wait until we're old.
+music bgm03.mp3
+bgload jqmgw.jpg
+text Finishing breakfast, I grab my bag.
+sound mpoth.mp3
+text "------Oh yeah. I should bring the pendant."
+text I don't really want to take the thing to school, but it'd be a waste just to leave it here.
+sound ~
+sound zuczz.mp3
+text "This thing is a hundred years old after all. It's by far the greatest jewel in the house."
+text No, that's an understatement. It's much stronger than that.
+text I found this after decoding Father's will last night. It contains the equivalent of ten years of my magical energy.
+text There was said to be an heirloom, and this might well be it.
+sound ~
+text We, the magi of Tohsaka, are skilled at the transformation of power. We put our magical energy into jewels whenever we have free time.
+text To put it simply, the jewels are bullets and we are the gun.
+text The only other thing I can say I received from my father is the Magic Crest of the Tohsaka family engraved on my left arm.
+text In essence, this is the proof of the successor, and it's like a tattoo that condenses all the inherited magic of the Tohsaka family.
+sound stlxg.mp3
+text "...It hasn't started yet, but I guess it doesn't hurt to be careful."
+text I put the pendant, which can now be said to be my father's memento, into my pocket.
+sound ~
+sound qqarr.mp3
+text "This is the last resort. Pretty much anything is possible with the magical energy contained in this."
+text It's seven thirty.
+text I should get going or I'll be late for school.
+sound ~
+music ~
+bgload tnllr.jpg
+sound ~
+sound se247.mp3 1
+sound wgwsh.mp3
+text "Schließung. Verfahren Drei."
+text I weave my words with magical energy quickly.
+text Being a magus, I can't let my guard down when leaving my house.
+text Even though there's never been a single robber, wandering child, nor a stray cat.
+text ...And I don't think my neighbor has ever come to say hello, either.
+sound ~
+sound bnbfc.mp3
+text "...Well, I don't really care. But not even a stray cat? What's up with that?"
+text I look up at the mansion I've grown so accustomed to over the years.
+text Fuyuki is certainly a strange city with many Western-styled houses on this side of town and an area full of Japanese-styled houses just beyond the intersection.
+sound ~
+text I guess it's because many foreign families came to live here a long time ago, but even so, I don't see many foreigners around here now.
+text There's a foreigners' cemetery in the new city across the river, but it only has the graves of the first generation of families.
+sound dqdej.mp3
+text "Maybe the soil of Japan didn't suit them."
+text I'll go to the church and ask the priest sometime.
+text He knows about lots of boring things.
+sound ~
+bgload vahmr.jpg
+sound ~
+sound zbrmu.mp3
+text "------Huh?"
+text Stepping outside, I feel a certain incongruity.
+sound ~
+sound prg01_rin_02.mp3
+text "What's up? It's quieter than usual..."
+text It's especially quiet with no sense of the morning's noisiness.
+text At seven thirty, the street should be filled with students going to school and people going to work.
+sound ~
+sound lpdxh.mp3
+text "...Well, I guess there are days like this."
+text Perhaps everyone slept in today.
+text It's unusually cold, so I bet everyone's still wrapped up in their warm beds.
+sound ~
+bgload hbvnw.jpg
+sound uvzfp.mp3
+text "Hm... But even so..."
+text It's strange that I haven't seen even one student so far.
+text At seven thirty, you can usually see people in uniform here and there.
+text But I'm the only person at the school gates, and it looks like the clubs are just starting their morning practice.
+text In other words, the only explanation is...
+sound ~
+music bgm04.mp3
+bgload hbvnw.jpg
+setimg xhkkt.png 89 16
+sound prg01_mit_00.mp3
+text "Oh, Tohsaka? You're up early today."
+sound kwbxs.mp3
+text "...As I suspected."
+text With a small sigh, I turn to the girl who addressed me.
+bgload hbvnw.jpg
+setimg pwhdd.png 89 16
+sound mvamx.mp3
+text "Morning. It really is cold today, huh?"
+text This girl, speaking so frankly, is Mitsuzuri Ayako.
+text She's my classmate in class 2-A, and there are a lot of stories about her.
+sound ~
+sound faxgy.mp3
+text "Good morning, Mitsuzuri-san. Please excuse the abrupt question, but do you know what time it is?"
+bgload hbvnw.jpg
+setimg gqnrs.png 87 16
+sound lmoob.mp3
+text "Huh? It's almost seven. Are you still asleep?"
+sound ~
+bgload hbvnw.jpg
+setimg mqluc.png 87 16
+text She waves her hand in front of me, wondering if I'm alright.
+text She is one of the few friends who know I am not a morning person.
+text ...In other words, she thinks I'm not fully awake yet.
+sound pzhgz.mp3
+text "I guess the clocks at my house were an hour fast. All of them.
+sound kmcyc.mp3
+text Not just my alarm clock, but the wall clocks as well."
+text Really, just what's going on here?
+text Did Father arrange for all the clocks to go mad when the pendant was removed from the basement?
+sound ~
+bgload hbvnw.jpg
+setimg rnjas.png 87 16
+sound xhgpi.mp3
+text "Tohsaka?"
+sound hrggq.mp3
+text "Don't worry, it's nothing. Anyways, are you off to morning practice as usual?"
+bgload hbvnw.jpg
+setimg mqluc.png 87 16
+sound xrkcg.mp3
+text "Yeah. The archery club has lots of problem students and one good member quit. So I have to get them to look good to attract the new freshmen in April."
+sound ~
+sound cugkh.mp3
+text "I see. There's always something to worry about, isn't there?"
+bgload hbvnw.jpg
+setimg gqnrs.png 87 16
+sound dcaky.mp3
+text "You can say that since it's none of your concern. Oh, do you wanna come? The guys will love it if you come and watch."
+bgload hbvnw.jpg
+setimg xhkkt.png 89 16
+sound mldih.mp3
+text "--------Archery club, huh?"
+sound ~
+text I have three acquaintances in the archery club.
+text One is Ayako, the person before me right now, and the other two are people I barely talk to.
+text And for one of those two, the word acquaintance doesn't really suffice.
+text I became friends with Ayako because I had been watching the archery club from afar.
+sound prg01_rin_03.mp3
+text "All right. I'll go if all I have to do is watch. I have nothing else to do this early anyways."
+bgload hbvnw.jpg
+setimg pwhdd.png 89 16
+sound wckih.mp3
+text "Great, let's go right now then."
+sound ~
+music ~
+bgload merca.jpg
+text The impressive archery range is one of our school's outstanding aspects.
+text Perhaps the director is just interested in archery, but the range is much too fancy for a mere school club.
+bgload merca.jpg
+setimg pwhdd.png 89 16
+sound jcbfm.mp3
+text "Come on, there's still time before practice, so let's go in and have some tea."
+text Happy about something, Ayako drags me in by the hand.
+text It's a bad habit of hers. She talks like a guy when she's expressing her true feelings.
+sound ~
+bgload gzhto.jpg
+sound ~
+sound se254.mp3 1
+text As Ayako said, there's no one in here.
+text While sipping hot tea, we prepare for today's class.
+text The tea tastes really good in this open winter environment.
+bgload gzhto.jpg
+setimg xhkkt.png 89 16
+sound xllog.mp3
+text "Well, I'll come straight to the point. How's it going, Tohsaka? Have you found a reliable partner yet?"
+text So.
+text As there's no one else around, Ayako comes straight out and asks me a ridiculous question.
+sound ~
+sound yybqy.mp3
+text "...Huh, that's a really direct way of asking.
+sound tgbhk.mp3
+text Judging from your tone of voice, you've already found yours?"
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound lcuue.mp3
+text "No comment. I'm going to keep it a secret until you tell me. So what's going on? Looking at your tired face, I feel like I'm right."
+sound ~
+sound zvoga.mp3
+text "Another no comment... but, you'd probably see through my lies. Unfortunately, not yet on my part.
+sound ishqc.mp3
+text How about you? I assume you don't have time to take it easy either."
+sound ~
+bgload gzhto.jpg
+setimg mqluc.png 87 16
+sound qitmp.mp3
+text "True, but things aren't looking good for me. I could get one right away, but it's not that kind of matter, you know? Our future depends on this, so I can't just compromise."
+sound jlmcu.mp3
+text "I see. So you don't want to choose hastily and lose to me?"
+sound ~
+bgload gzhto.jpg
+setimg xhkkt.png 89 16
+sound prg01_mit_01.mp3
+text "Of course not. The important part is making you lose. What I get comes second."
+text She laughs boldly.
+sound ~
+sound iyena.mp3
+text "--------Geez. We really are alike."
+bgload gzhto.jpg
+setimg pwhdd.png 89 16
+sound lpuyg.mp3
+text "Yeah. When we first met, I warned you we'd have this kind of relationship."
+bgload gzhto.jpg
+text Yes, she did indeed.
+text I was certainly surprised when at our first meeting, she said "We'll probably end up with a 'kill or be killed' relationship".
+sound ~
+text Or in other words, "Unless we go all out against each other, we'll never really be friends".
+text I agreed with her on that, and that's why we've had a friend-or-foe relationship for two years.
+sound xcfbj.mp3
+text "By the way, why are we talking about this?"
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound qmfjb.mp3
+text "Why? You're the one who started it, Tohsaka.
+sound bznuc.mp3
+text You said there's something wrong with a woman never having a boyfriend, so we decided to see which of us could get a boyfriend before the third year."
+sound jpfgj.mp3
+text "...Oh yeah. Just tit for tat, I suppose. And did we say the loser would obey the winner for a day?"
+sound ~
+bgload gzhto.jpg
+setimg pwhdd.png 89 16
+sound fjezr.mp3
+text "Right. Even kids don't make promises like that nowadays, but it's not like we're sore losers.
+sound zbcev.mp3
+text Whatever the result, the loser will obediently follow the winner's orders. Just thinking about it gets me excited."
+sound ~
+text Ayako laughs.
+text Honestly.
+text She's so serious about this. Mitsuzuri Ayako is such a difficult person to deal with.
+bgload gzhto.jpg
+text ...Though, I can't wait to beat Ayako either, so neither of us are people you want to deal with.
+sound rtnce.mp3
+text "I see. But, Mitsuzuri-san? It's fine to enjoy yourself, but you should take care not to get your objectives wrong. You know that's not the only point of the contest, don't you?"
+sound ~
+bgload gzhto.jpg
+setimg mqluc.png 87 16
+sound eymue.mp3
+text "I know. I can't call it a complete victory unless I beat you with a relationship you would really be jealous of.
+sound tpbdy.mp3
+text Well, that's the biggest problem for us. No matter how good a guy it is, there's no point if we can't bring ourselves to love him."
+sound ~
+text Ayako sighs heavily.
+text To my knowledge, Mitsuzuri Ayako is said to hate men.
+text Rumors are never to be trusted, however. As she suggested this match, rather than hating men, I think she just didn't have a chance.
+text ------But, that aside.
+sound prg01_rin_04.mp3
+text "Hold it. What do you mean, 'us'?
+sound zfkzv.mp3
+text I'll say it right now, but I'm not cold-hearted like you. I'd have no problem loving a guy."
+sound ~
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound awnwz.mp3
+text "Oh, that's a lie. Or you're fooling yourself. There's no way you'd ever be concerned about a guy.
+sound pvmrz.mp3
+text You've never given one good response to any of the confessions made to you. If you had even the slightest interest, you'd think of going out with them. But you keep declining, so it must mean you're not interested in men."
+sound ~
+sound weosm.mp3
+text "You're not thinking enough. Couldn't we say I'm declining because I already have someone I like?"
+bgload gzhto.jpg
+setimg xhkkt.png 89 16
+sound prg01_mit_02.mp3
+text "Wow, that's a good answer. I like that, it's romantic."
+sound ~
+text Ayako nods seriously, not making fun of me.
+text Her sigh says, "wouldn't it be nice if that was the case."
+text ...Geez.
+text I really can't keep anything from her.
+sound thsby.mp3
+text "You're right, I think so too."
+text Well, it's exactly as she says.
+text I know myself how cold I am.
+sound ~
+sound cevhf.mp3
+text "I admit it. I know nothing when it comes to love and relationships."
+bgload gzhto.jpg
+setimg pwhdd.png 89 16
+sound beopl.mp3
+text "Exactly. You're the one who said we're alike.
+bgload gzhto.jpg
+setimg xhkkt.png 89 16
+sound ckjij.mp3
+text ...Oh, it's almost seven. Let's leave the secret talk there. You never know when someone might walk in on us, and we should act like proper students."
+sound kujgz.mp3
+text "Well, I never knew you had social manners like that. It was worth getting up early just to hear that."
+sound ~
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound bljsk.mp3
+text "Heh, not so much as you. My social manners are nothing compared to yours. You hide yourself so much it almost seems like you're a different person."
+bgload gzhto.jpg
+setimg mqluc.png 87 16
+text Ayako gives an exaggerated sigh.
+text Both of the teas she made are now empty, and it's my turn to make it.
+sound ~
+sound ~
+music bgm05.mp3
+sound psxin.mp3
+text "So, why don't you join a club, Tohsaka? I won't listen to any lies about not having the athletic ability. I'm still bitter that I lost to you in all aspects in last year's physical testing."
+sound ~
+sound mikih.mp3
+text "Oh? But you beat me in lung capacity. And also in weight."
+bgload gzhto.jpg
+setimg pwhdd.png 89 16
+sound inqwh.mp3
+text "Ahahaha! All right, I'm three kilograms heavier than you!
+delay 60
+sound se230.mp3
+bgload gzhto.jpg
+setimg yltmh.png 89 16
+sound ytmwm.mp3
+text ...Hey, being heavier isn't something to be happy about, you fox!"
+text Ayako slams on the table.
+sound ~
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound vfdrj.mp3
+text "Be careful, you might spill the tea, Mitsuzuri-san. You're the captain, so you should treat this place with care."
+sound cnrst.mp3
+text "Shut up. I'm your rival first and captain of this place second.
+sound tlrkx.mp3
+text Naturally, if there are no members around, I'll go after you."
+sound ~
+bgload gzhto.jpg
+text Ayako looks at me with narrowed eyes.
+text This girl has her own sense of beauty and she always says,
+text "Beautiful people have to do some kind of martial arts."
+text She's a bold person experienced in most martial arts.
+text She joined the archery club with no experience and is now the captain as if it were only natural.
+text She's probably one of the top three people in the school you should never disobey, regardless of gender.
+sound yrtzn.mp3
+text "Oh, isn't it a problem to claim you're not the captain if there are no members around?"
+bgload gzhto.jpg
+setimg rnjas.png 87 16
+sound ejusg.mp3
+text "Of course not. I'm the captain in name only, so all I can do is keep an eye on the problem members.
+sound prg01_mit_03.mp3
+text There are people better than me, so it's not a very dignified captaincy."
+sound ~
+sound rkwet.mp3
+text "Really? But Fujimura-Sensei says that your skills are outstanding."
+bgload gzhto.jpg
+setimg jeeye.png 87 16
+sound zgltv.mp3
+text "Ugh... Well, if she says so, that gives me some confidence. Yeah, I guess it's no good to think about people who don't come here any more. Yeah, if Fujimura-Sensei said that, I guess I should take being captain more seriously."
+sound ~
+sound prg01_rin_05.mp3
+text "That's right. Speaking of which, it's almost time for the club members to arrive, right? I'll get going but you stay and be a good captain."
+bgload gzhto.jpg
+setimg gqnrs.png 87 16
+sound xkzzo.mp3
+text "What, you're not going to stay and watch?"
+sound luqeq.mp3
+text "I wouldn't understand. Watching from a distance is fine, but outsiders shouldn't be in the range, should they?"
+sound ~
+bgload gzhto.jpg
+text Just as I rise, someone enters the range.
+bgload gzhto.jpg
+setimg mjzrf.png 26 17
+sound prg01_sak_00.mp3
+text "Good morning, captain."
+bgload gzhto.jpg
+setimg xhkkt.png 153 16
+setimg mjzrf.png 26 17
+sound srsfg.mp3
+text "Ah, morning, Matou. You're alone this morning?"
+bgload gzhto.jpg
+setimg jwgiu.png 30 17
+setimg xhkkt.png 153 16
+sound oelni.mp3
+text "...Yes. I'm sorry I couldn't be of help."
+bgload gzhto.jpg
+setimg jwgiu.png 30 17
+setimg mqluc.png 151 16
+sound jljnb.mp3
+text "Nah, it's okay. If he doesn't want to come, there's no point forcing him to."
+text Ayako addresses the club member who just entered.
+sound ~
+sound uxfyq.mp3
+text "Well, I'll be going. See you later, Mitsuzuri-san."
+bgload gzhto.jpg
+setimg mjzrf.png 26 17
+setimg xhkkt.png 153 16
+sound fomup.mp3
+text "Yeah, see you later, Tohsaka."
+sound zrbpx.mp3
+text "...Thank you for coming, Tohsaka-Senpai."
+sound xujut.mp3
+text "Thanks. You take care too, Sakura."
+sound ~
+music ~
+bgload merca.jpg
+sound ~
+sound se254.mp3 1
+text I leave the range trying not to interrupt them.
+bgload merca.jpg
+setimg bjqbc.png 66 11
+sound prg01_sin_00.mp3
+text "Ah, Tohsaka, good morning. I'm lucky to see you so early."
+text Bad luck. I've run into someone I don't want to see.
+sound ~
+bgload merca.jpg
+setimg ivfdi.png 66 11
+sound vmwvo.mp3
+text "Good morning, Matou-kun. You're early today."
+sound pvzqt.mp3
+text "Of course. As the captain, I have to come early as an example to others."
+bgload merca.jpg
+setimg bjqbc.png 66 11
+text This smiling guy is Matou Shinji, of class 2-C.
+text He's the vice-captain of the archery club and owner of the hearts of half the girls in this school.
+sound ~
+text Kind of an idol, good looking, good grades, sociable, and kind to girls.
+text I'm not too well-informed in such areas, so I've only heard all this from my classmates.
+bgload merca.jpg
+setimg ivfdi.png 66 11
+sound gbdrw.mp3
+text "Really? I'm sorry to interrupt your good mood, but you're missing a word, Matou-kun. It's an important word, so I don't think you should forget it."
+bgload merca.jpg
+setimg giodn.png 66 11
+sound wnllh.mp3
+text "Hm? What do you mean missing a word?"
+sound wmwot.mp3
+text "You're missing the 'vice-' part, vice-captain. You should watch out. It makes no difference whether you're the captain or the vice-captain, but if you put a lot of weight on it, people might think you're concerned about it, right?"
+sound ~
+bgload merca.jpg
+setimg ivfdi.png 66 11
+sound wjaft.mp3
+text "...
+sound uvfpa.mp3
+text You're right. I'll be careful from now on. Thank you, Tohsaka."
+sound nzejx.mp3
+text "I've done nothing to earn your thanks, but I guess it doesn't matter if you think otherwise."
+bgload merca.jpg
+text Bidding him goodbye, I leave the range.
+sound ~
+bgload merca.jpg
+setimg giodn.png 66 11
+sound lufma.mp3
+text "Hold on. You came to watch, right? Then you should stay and watch. You're very welcome here."
+sound dozva.mp3
+text "I'd rather not. I don't want to interrupt the morning practice."
+bgload merca.jpg
+setimg dtjdb.png 66 11
+sound bqhrs.mp3
+text "Don't worry about that. If anyone's bothering you, I'll just kick them out, so come in for a while."
+sound atgrm.mp3
+text "...I'm saying I don't want to be a bother.
+sound prg01_rin_06.mp3
+text Besides, it's not like I'm interested in archery.
+sound poxvr.mp3
+text I don't like watching people I don't know practicing."
+sound ~
+bgload merca.jpg
+setimg bjqbc.png 66 11
+sound mpapa.mp3
+text "What? You didn't have any interest in archery?
+sound vwmaa.mp3
+text ...Oh, so that's why you were watching us after school."
+text ......
+text I don't know what he thinks the reason was, but he's undoubtedly making a big misunderstanding.
+sound ~
+sound ekqyy.mp3
+text "------Oh, so you knew, Matou-kun?"
+sound lueiy.mp3
+text "Yeah, our eyes met many times, yours and mine. After I shot, you would always be looking at me, right?
+sound prg01_sin_01.mp3
+text I wanted to call out to you, but it's the rules, you know? We can't raise our voice on the range."
+sound ~
+bgload merca.jpg
+bgload merca.jpg
+setimg czbon.png 25 3
+text As if happy about something, Shinji moves in closer to me.
+text His smile carries a sense of superiority.
+sound gvzxp.mp3
+text "I guess I misunderstood. I thought you liked archery, but you actually have no interest in it, right? So why were you watching the range?"
+sound ~
+bgload merca.jpg
+setimg twlaa.png 25 3
+text "----------------"
+text Oh, I see now.
+text Yes, the conversation could certainly have been taken that way.
+sound lyauz.mp3
+text "Can you move away, Matou-kun? I really don't like people coming so close to me."
+bgload merca.jpg
+setimg gctes.png 36 0
+sound hxlmu.mp3
+text "Uh? Tohsaka, what?"
+sound ~
+sound afbdy.mp3
+text "Honestly, it seems you still don't understand.
+sound fkvde.mp3
+text ...It's not my style, but I'll put it in terms even you can understand.
+sound fqkfj.mp3
+text Matou-kun, I'm saying that I have even less interest in you than in archery. Frankly, I never even knew you were in the range, and I'm not about to start looking out for you now either."
+sound ~
+bgload merca.jpg
+setimg cjixq.png 36 0
+sound odwxu.mp3
+text "------W-What...!"
+text As if I've angered him, he reaches out for me violently.
+bgload merca.jpg
+text I easily avoid it and turn my back on him.
+sound ~
+sound ~
+sound uzdde.mp3
+text "Goodbye, Matou-kun. It's good to have some ego, but you shouldn't let it grow too large."
+sound dquzb.mp3
+text "Tohsaka, you...!"
+text He sounds like he wants to say more, but it doesn't seem like he's going to scream or come after me.
+sound ~
+text ...Geez, he really is all show.
+text If he was just a little bit more mature, he wouldn't be so much trouble for the people around him.
+sound ~
+bgload jriqr.jpg
+text From the back of the school where the archery range is based, I enter the school building.
+text It's past seven, but I can't see anyone in the hallway.
+bgload jriqr.jpg
+bgload mhnab.jpg
+music bgm04.mp3
+sound prg01_tig_00.mp3
+text "Oh, Tohsaka-san."
+sound tonpe.mp3
+text "...Good morning, Fujimura-Sensei."
+bgload mhnab.jpg
+setimg waygr.png 87 12
+sound nswue.mp3
+text "Yes, good morning, Tohsaka-san. I'm so happy you greeted me properly."
+sound ~
+bgload mhnab.jpg
+setimg yinmd.png 94 16
+text The strange woman seems to be crying of happiness.
+text ...It's hard to believe, but this person of surpassing friendliness and cheerfulness is a teacher at this school.
+sound hwznx.mp3
+text "Uh, Sensei... is there a way to greet you improperly?"
+bgload mhnab.jpg
+setimg ollzk.png 94 11
+sound xlwde.mp3
+text "Of course there is. First years always greet me properly, but the older ones never greet me by my last name. You shouldn't copy their rudeness, okay?"
+sound ~
+sound prg01_rin_07.mp3
+text "...I don't really understand, but I won't be rude to you, Sensei."
+bgload mhnab.jpg
+setimg waygr.png 87 12
+sound ptywq.mp3
+text "Good girl. Oh, I wish everyone was as good as you, Tohsaka-san."
+sound ~
+bgload mhnab.jpg
+text Fujimura-Sensei waves goodbye and leaves.
+text Fortunately, she isn't my homeroom teacher.
+text Fujimura-Sensei teaches English.
+text She has such a kind face, but she also has a black belt in kendo, and I hear she was respected as the "Tiger of Fuyuki" in her student days.
+text ...Though, that's a bit strange.
+text Wouldn't a tiger normally be feared, not respected?
+text Apparently in a good mood, Fujimura-Sensei heads for the archery range.
+text For some reason, she's in charge of the archery club and not the kendo club.
+bgload jriqr.jpg
+text It's almost seven-thirty.
+text I can see a few students doing club activities outside, but there's no sign of anyone in the school building.
+text But still...
+music ~
+bgload jriqr.jpg
+setimg lstuw.png 82 5
+sound prg01_ise_00.mp3
+text "--------Gah, Tohsaka."
+text I bump into someone who greets me rudely.
+sound ~
+music bgm04.mp3
+sound bmfks.mp3
+text "Oh, Student President. Are you patrolling the school building this early in the morning? Or perhaps taking care of the club rooms? Not that I care, but you're certainly diligent."
+bgload jriqr.jpg
+setimg ypfah.png 72 5
+sound owecu.mp3
+text "Huh! What are you planning? What are you doing here? You're not in any clubs."
+sound efcoc.mp3
+text "I just felt like it. I don't get up early like your family does, Ryudou-kun."
+sound ~
+bgload jriqr.jpg
+setimg gechj.png 72 5
+text "......"
+text The Student President makes an unhappy face.
+text For some reason, I seem to be his enemy.
+text I really don't know why.
+text ...Perhaps it's just because I said "skip the temples, they're boring" in a meeting to plan for the field trip.
+bgload jriqr.jpg
+setimg kjibi.png 82 5
+sound pmajr.mp3
+text "...Let me ask you a question, Tohsaka. Have you been staying at school until late at night recently?"
+sound zmmpj.mp3
+text "Nope. You should know I always go straight home, Ryudou-kun."
+bgload jriqr.jpg
+setimg hawkp.png 82 5
+sound aqxbz.mp3
+text "Of course. This is my job, so naturally I know about everyone."
+sound ~
+sound vbpwi.mp3
+text "I see. So you don't even have to ask, right? I don't know why you're asking, but isn't it bad to force student council jobs onto outsiders?
+sound rgmaz.mp3
+text You should collect information on your own. Don't rely on outsiders like me."
+bgload jriqr.jpg
+setimg acizk.png 72 5
+sound clbqf.mp3
+text "Idiot, how are you an outsider!?
+sound uvbjt.mp3
+text Don't think I don't know how you worked your evil deeds on our Treasurer, you fox!"
+sound ~
+sound adfiz.mp3
+text "Oh, you misunderstand. I was merely working out how much each club should receive because Mitsuzuri-san asked me to.
+sound fmgzo.mp3
+text I think it's only right for students to take an interest in where their money is going."
+bgload jriqr.jpg
+setimg hwrku.png 55 6
+sound hbqfi.mp3
+text "...H-How can damaging our Treasurer's psyche enough to keep him off school for a week be 'only right' for any student? As always, I'm amazed by your way of thinking."
+sound ~
+sound eyjmn.mp3
+text "The same to you. You should keep a watch on those under you.
+sound mvvxh.mp3
+text It's not fair to favor the non-sporting clubs."
+bgload jriqr.jpg
+setimg otidd.png 72 5
+sound ppiao.mp3
+text "I know that. That's why I had intended to deal with the matter myself--------"
+sound ~
+bgload jriqr.jpg
+setimg faiud.png 15 9
+setimg ypfah.png 137 5
+sound prg01_shi_00.mp3
+text "Issei, the repairs are done."
+text --------And then.
+text A guy appears who I didn't expect to find here.
+sound ~
+sound ppucm.mp3
+text "Ah, sorry Emiya. I'm the one who asked for help, but it seems like you're doing all the work. Forgive me."
+sound bbyez.mp3
+text "Don't worry about it. So, where next? There's not much time left."
+bgload jriqr.jpg
+setimg faiud.png 15 9
+setimg kjibi.png 147 5
+sound prg01_ise_01.mp3
+text "Yeah, the AV room is next. It seems it's been working badly for a while, but it finally died."
+sound lyslb.mp3
+text "It can't be fixed if it's dead. It would be quicker to just buy a new one."
+sound ~
+sound abtop.mp3
+text "...True, but it'd help if you could take a look at it. It might be dead to my eyes, but only faking it to yours."
+sound bwyfa.mp3
+text "I see. Well, let's take a look."
+sound ~
+bgload jriqr.jpg
+text The Student President leaves with the male student.
+text "----------------"
+text My thoughts have stopped at this sudden event.
+text The guy with wrenches and spanners in hand turns back as if remembering something.
+bgload jriqr.jpg
+setimg kilee.png 29 32
+sound epvhk.mp3
+text "You're up early, Tohsaka."
+text And with that, he leaves.
+sound ~
+bgload jriqr.jpg
+text ...Was that supposed to be a greeting?
+text The student whom the president called "Emiya" leaves quickly.
+text Emiya... that would be Emiya Shirou, from class 2-C.
+sound prg01_rin_08.mp3
+text "...That's fine, but..."
+text How can I put it?
+text I just think it's hard to tell whether a guy who looks at home holding a wrench is useful or scary.
+sound ~
+music ~
+bgload pfuze.jpg
+text It's seven thirty in the morning, and there's no one in class 2-A.
+text "Well, I guess I'll study ahead."
+text I sit at my desk and work on a few math problems.
+text There's thirty minutes until homeroom... I guess I'll just be bored until my classmates arrive.
+bgload black.jpg
+delay 0
+sound se020.mp3
+music bgm04.mp3
+bgload pfuze.jpg
+text Fourth period ends and the noisy lunch break begins.
+text Our school has a cafeteria, but half the students stay in the classroom.
+sound ~
+text Actually, most of the ones who stay are girls.
+text The cafeteria food is rather roughly made, so girls tend to dislike it and as a result...
+bgload pfuze.jpg
+setimg gzqwy.png 94 23
+sound prg01_sae_00.mp3
+text "Ah, um, Tohsaka-san...! W-Would you like to have lunch with us...!?"
+text ...Girls end up eating lunch together like this.
+sound ~
+sound xdrql.mp3
+text "Thank you, Saegusa-san, but I'm afraid I'm eating at the cafeteria today. I slept in this morning and didn't have time to make lunch."
+bgload pfuze.jpg
+setimg drctf.png 94 23
+sound uznuv.mp3
+text "Oh, I see... I'm sorry to invite you without realizing that. I guess I'm being a bother."
+sound ~
+text Saegusa-san looks downcast as if apologizing.
+text She's one of the calmest in a class full of calm students, and a kind person who cares about me for some reason.
+sound gamyl.mp3
+text "I don't think so. It just happened that way today, so don't worry about it. Please ask me again tomorrow."
+text I smile at her from the bottom of my heart.
+sound ~
+bgload pfuze.jpg
+setimg iaguj.png 94 23
+sound bhshp.mp3
+text "Oh, yes. I guess even you sleep in from time to time."
+text My smile must have relaxed her as she returns it with her own.
+sound ~
+text "----------------"
+text Her smile is cute.
+text Saegusa Yukika-san isn't the most beautiful person, but her smile warms the hearts of everyone around her.
+sound lznkd.mp3
+text "Yes, that's right. I try not to let it show, but I actually sleep in quite often. I'm not in any clubs because I can't get up in the mornings."
+bgload pfuze.jpg
+setimg drctf.png 94 23
+text Saegusa-san's expression reveals her surprise.
+text Her presence really relaxes me, but I can't just have fun talking.
+text If I keep talking to people like this, I'm bound to reveal my true self.
+sound ~
+sound qdzzz.mp3
+text "Well, I'm off to the cafeteria. Enjoy your lunch, Saegusa-san."
+bgload pfuze.jpg
+setimg iaguj.png 94 23
+sound vhigt.mp3
+text "Yes. You too, Tohsaka-san."
+bgload pfuze.jpg
+text We exchange a warm goodbye and she returns to her group of girls.
+sound ~
+bgload pfuze.jpg
+text It seems she's eating with Makidera-san and Himuro-san.
+text Oh yeah, Saegusa-san is the manager of the track team.
+text Makidera and Himuro-san are the track team's hopefuls.
+text Makidera is a friend I sometimes go window-shopping with, but I don't know Himuro-san that well.
+bgload pfuze.jpg
+setimg cpirq.png 14 10
+sound prg01_mak_00.mp3
+text "Oh, you were rejected, Yukicchi? Didn't I tell you Tohsaka wouldn't bring lunch? If you want to eat with her, you'll have to make her lunch too."
+bgload pfuze.jpg
+setimg bqluw.png 160 19
+setimg cpirq.png 14 10
+sound prg01_him_00.mp3
+text "...Maki, can't we just go to the cafeteria too, then?"
+sound ~
+sound yjivz.mp3
+text "No way. There isn't enough room in that place for people who bring their own lunches. And even if we did sit with Tohsaka, the men's glares would be annoying as hell.
+sound ixqou.mp3
+text Like last vacation! We went to hang out together, but she's the only one who got any attention. Don't you just hate people who have to show off their beauty like that?"
+sound ~
+text Makidera speaks without thinking as the girls surround Saegusa-san's desk.
+text In contrast to her nasty mouth, she's a Japanese beauty who looks wonderful in a kimono.
+sound skvrr.mp3
+text "...Um, I think that Tohsaka-sama can hear you."
+text In contrast to Makidera's loudness, Himuro is the cool, steady type.
+sound ~
+bgload pfuze.jpg
+setimg bqluw.png 160 19
+setimg sjjui.png 14 10
+sound mstca.mp3
+text "Ack, crap, Tohsaka heard that? Ugh, she's really glaring at me...!"
+sound udxaf.mp3
+text "Uh, I-I don't think she's glaring at you, really..."
+sound ~
+sound vsyir.mp3
+text "She is. She's scariest when she's smiling. Come on, take it easy Tohsaka. It's us we're talking about, right? I bought you taiyaki, remember?"
+text She waves her chopsticks, puffing out her cheeks.
+text The knowledge that this girl's hobby is collecting wind chimes just shows that the world is far too complex.
+sound ~
+bgload pfuze.jpg
+text ...Anyways, it's not good for Saegusa-san to keep watching this.
+text She's panicking, seeing Makidera continually talking bad about me.
+sound flpdw.mp3
+text "Don't worry, Saegusa-san.
+sound wdtia.mp3
+text And Makidera-san? I'm the one who paid, and it was crepes, not taiyaki. You should fix that habit of yours of changing the facts you remember, or I might have to reconsider things next time, okay?"
+bgload pfuze.jpg
+setimg sjjui.png 14 10
+sound kpzoj.mp3
+text "Ugh. That smile is really scary."
+bgload pfuze.jpg
+text Makidera hides behind the lid of her lunch box.
+text Saying goodbye to the three of them, I leave the classroom.
+sound ~
+delay 0
+sound se021.mp3
+bgload black.jpg
+text I shut the door behind me.
+text ...And then,
+sound odclf.mp3
+text "Man, come on! There's no big difference between crepes and taiyaki, they're both just sweets wrapped up!"
+music ~
+text Makidera's words are ones no girl should ever speak.
+sound ~
+music ~
+bgload jriqr.jpg
+sound uihou.mp3
+text "...Taiyaki and crepes, the same...!?"
+text Is she really a girl? Are all sweets the same to her?
+text Perhaps she just has very convenient taste buds that can't tell a 500 yen crepe from an 80 yen taiyaki, but...
+text Why you... I could have saved 420 yen if I'd just bought you taiyaki to begin with...!
+sound ~
+music bgm04.mp3
+sound qputk.mp3
+text "...Why am I getting mad about this?"
+text I guess I'm still tired from last night.
+text The cafeteria would be too much effort, so I'll just get a drink and some bread and eat on the roof.
+sound ~
+music ~
+sound ~
+sound se256.mp3 1
+bgload zqwqe.jpg
+text I buy lunch and head for the empty rooftop.
+text It's a convenient location as no student would come near it in the wintertime.
+text It's too cold to eat, but that's a small price to pay for being able to eat without worrying about other people.
+sound prg01_rin_09.mp3
+text "Well, lunch comes first."
+text I start on my tomato sandwich and hot lemon drink.
+text It's a simple lunch, but the taste is much improved in this peace and quiet.
+sound ~
+sound hbhhc.mp3
+text "----------Phew."
+text I finish my sandwich and my hot lemon drink.
+text ...I'm a bit tired.
+text It's a difficult balance, being a good student while trying not to be too social.
+sound ~
+text It's my vanity... no, my conviction, that I must be number-one both academically and physically.
+text If I am to be a student, I want to be the best, and it's unthinkable for me to dishonor the Tohsaka name.
+text So that's why I'm a perfect student, flawless in all aspects.
+text But at the same time, I also have a dangerous job as a magus, so I shouldn't associate with normal people.
+text Normally, any magus whose identity is discovered has no choice but to eliminate the witness.
+text ...I don't want to do that.
+text So inevitably, my social life has become a shallow one.
+text I only hang out with Makidera on weekends, and I try to refuse invitations from friendly people like Saegusa-san.
+text Even though I'm the best honor student in the school, I live trying not to become too important to anyone.
+text Though, sometimes when I'm tired like this, it makes me think that this life is rather boring.
+delay 0
+sound se020.mp3
+sound bqxxr.mp3
+text "Oh, it's time already?"
+text I finish my hot lemon drink and stand up.
+text I should stop drowning in sentimentality and go back to being the usual Tohsaka Rin once I go down the stairs--------
+sound ~
+sound ~
+bgload tiifg.jpg
+sound ~
+sound se012.mp3 1
+sound prg01_kuz_00.mp3
+text "Homeroom is at an end. Those of you on day duty, finish the daily report and check the locks.
+sound nnsdy.mp3
+text Those of you without club activities are to go home quickly."
+sound ~
+bgload tiifg.jpg
+text 2-A's homeroom teacher exits after repeating his usual line.
+text As far as I know, this line hasn't changed all year.
+bgload tiifg.jpg
+setimg xhkkt.png 89 16
+sound fsxya.mp3
+text "Tohsaka, you're going home already?"
+sound hpyda.mp3
+text "Yes. There was an event with Matou-kun this morning, so I'm heading home before it becomes a bother."
+bgload tiifg.jpg
+setimg pwhdd.png 89 16
+sound dccih.mp3
+text "Haha, I thought so. Matou was in a bad mood this morning, so I thought you must've given him a hard time."
+sound phvac.mp3
+text "I see. Did I cause you any trouble, Mitsuzuri-san?"
+bgload tiifg.jpg
+setimg xhkkt.png 89 16
+sound ubchi.mp3
+text "Not at all. It's normal for Matou to torment the younger students, and I think that kind of thing will be good mental training for him."
+sound ~
+sound wsaya.mp3
+text "I see, that's good. Well, I'll make up for it some other time."
+bgload tiifg.jpg
+setimg pwhdd.png 89 16
+sound wnmyc.mp3
+text "All right. Don't be put off and come by again!"
+sound ~
+sound ~
+bgload ykona.jpg
+text I head straight home.
+text It's not like I don't have any business with the archery club or the student council, but I haven't had enough free time for them these past few days.
+text Once I leave school, Tohsaka Rin is no longer a student.
+text The rest of the day is not for myself as a student.
+text Instead, I must become a magus of the Tohsaka family------
+sound ~
+bgload yscmm.jpg
+text Back at my house, I'm greeted by the blinking light on my answering machine.
+sound yyaxh.mp3
+text "------It's unusual for me to get any messages. It was... just as I thought, it's you, Kirei."
+text I already know what he's going to say, but he'll be scary later if I don't listen.
+delay 60
+sound se261.mp3
+text When I press the play button, I hear a familiar voice.
+sound ~
+delay 0
+sound se260.mp3
+sound prg01_kot_00.mp3
+text "It's me. I'm sure you know, but tomorrow is the deadline, Rin.
+sound zrhuu.mp3
+text It's a problem for me if you take it easy. There are only two remaining seats.
+sound ezgyv.mp3
+text I must ensure all the Masters are arranged quickly."
+text This priest shows no mercy as he gets right to the point.
+sound ~
+sound vkhux.mp3
+text "If you wish to abandon your right to become a Master, contact me today. It takes some time to dispatch a substitute magus."
+text Liar. Someone like you would be able to arrange a substitute in no time.
+sound ~
+sound qjalb.mp3
+text "You already show signs of the Command Spell. Quickly, summon your Servant and open the Command Spell.
+sound wbgkd.mp3
+text Unless, of course, you're not planning to be a part of this Holy Grail War. If you value your life, you should run to the church quickly."
+sound ~
+delay 0
+sound se047.mp3
+text The message ends there.
+text ...His words are concise.
+text He's telling me that if I am to fight, I should get ready by today and if I'm not going to fight, I'm an eyesore and should just retire quickly.
+sound ~
+sound xhpkh.mp3
+text "...Heh, you don't have to tell me that."
+text Well, it can't be helped.
+text Today is as late as the deadline can be extended.
+text Fortunately, I was able to decode Father's will last night.
+text My preparations are ready.
+text All that remains is------yes, obtaining the qualification to enter this fight...
+sound ~
+sound ~
+sound se253.mp3 1
+sound ntjic.mp3
+text "The Holy Grail War... a fight to the death for the one and only Holy Grail. A ritual of the Holy Grail passed down for hundreds of years, huh?"
+text The magi who participate in the Holy Grail War are called Masters.
+text This is not so much a rank, rather it indicates "one who is in control".
+sound ~
+text The requirement to enter the Holy Grail War.
+text That is to summon a familiar called a Servant, and to form a contract with it.
+text No matter how great a magus a person is, one is not considered a Master until he has a Servant under him.
+text Servants are beings very different from normal familiars.
+text The methods of summoning and controlling them are different as well.
+text A magus planning to enter the Holy Grail War usually prepares a catalyst to summon a Servant, but....
+sound vqkuz.mp3
+text "...Really, I wish Father could have left me something with a connection to Saber."
+text I don't have anything with any "connection".
+text I can summon a Servant.
+text If I wanted to, I could summon one right now and form a contract with it.
+text The town's sacred ground is under our jurisdiction.
+text As the daughter of the Tohsaka family which has protected this town through the generations, I will not lose to magi from elsewhere.
+sound ~
+text But that said... I guess you can't go out to sea without a compass. Or perhaps I should say things are completely unplanned?
+sound prg01_rin_10.mp3
+text "...Servants are attracted to symbols.
+sound hfhce.mp3
+text If you want to summon a strong Servant, you need something that has a connection to that Servant."
+text In other words, a sword, armor, talisman, bone of that Servant, or something like that... something valuable beyond belief.
+sound ~
+sound byfjg.mp3
+text "...I was hoping there'd be something like that in Father's will, but... No, this is a great trump card too. But still...."
+text The pendant I found last night in the basement is one of the best Artifacts in its class.
+text It's great in its own way.
+text It's great, but it won't help me to summon my servant.
+sound ~
+sound otire.mp3
+text "...Huh! It's fine. I can do it without help from that sort of thing. After all, there can't exist any Masters capable of handling Saber other than myself."
+sound ~
+text ------All right, I've decided.
+text I don't want to make Kirei complain any more by postponing it any longer, and it's not like me to wait until the last second.
+text It'll come down to just trying it.
+text I'll face the summoning tonight with full power and obtain Saber by force...!
+sound ~
+music ~
+delay 0
+sound se019.mp3
+delay 60
+sound se191.mp3
+bgload lbrfd.jpg
+music bgm10.mp3
+bgload pkndp.jpg
+text Late at night.
+text The clock is about to strike two.
+text This is the best timeframe for my magical energy.
+text The peak of my magical energy is at exactly two in the morning.
+text Since this will be my first and last chance, I can't afford any mistakes.
+sound ~
+sound lzquc.mp3
+text "------Withdrawal within elimination, engrave four areas and surround with the summoning circle... right."
+sound ~
+delay 0
+sound se242.mp3
+bgload iefyj.jpg
+text I engrave the circle onto the floor of the basement.
+text You don't need a large-scale summoning to summon the Servant.
+text Servants are called forth by the Holy Grail.
+text As the Master's priority is to keep the Servant in this world and to supply them with enough magical energy to substantiate, the Holy Grail takes care of the summoning.
+sound ~
+bgload eghiy.jpg
+sound qfkro.mp3
+text "Bare and silver and iron. Stone for foundation and the Grand Duke of contracts. My great master Shveinorg for the ancestor.
+sound gzzyj.mp3
+text A wall for the descending winds. The four gates shall close and come out the crown. Let the three-forked road to the kingdom cycle."
+sound ~
+text Still, I continue with the greatest concentration.
+text I draw the magic circle, normally written in blood, with my melted jewels.
+text ...I'm using half the jewels I've saved up, so I can't fail for financial reasons too.
+sound xqdhi.mp3
+text "Enclose. Enclose. Enclose. Enclose. Enclose.
+sound nxbkn.mp3
+text Five times for each repetition.
+sound udfwg.mp3
+text Just destroy the enclosed time."
+text ...It's almost two in the morning.
+text Completing the magic circle passed down through the Tohsaka family, I face it with all my power.
+sound prg01_rin_11.mp3
+text "Anfang."
+text I flip the formless switch inside me.
+text I feel a sensation as if the contents of my body are being exchanged.
+text The usual nerves invert into circuits transmitting magical energy.
+text From this point, Tohsaka Rin is not human.
+text I shall become a part of the tool to attain mystic power.
+sound ~
+bgload special/greenout.jpg
+delay 48
+bgload eghiy.jpg
+bgload eghiy.jpg
+sound ~
+sound se257.mp3 1
+text ...I am melting from my fingertips.
+text No, I am being filled from my fingertips.
+text The mana I am taking in is so concentrated that the original senses of my body are being repainted.
+text So, being filled is the same as being destroyed.
+text "------------------------"
+text The power that fills me is pure magical energy from the air.
+text It is absorbed by my body, which has become a circuit, and transformed into a different form of magical energy.
+text The body of a magus is nothing more than a circuit.
+text A circuit to connect the spiritual and the real.
+text We call the result of this, the many mystic occurrences it has made real, magic.
+text ...My body is burning hot.
+text An illusion of myself growing horns.
+text An illusion of wings growing out of my back.
+text An illusion of scales forming on my hands.
+text A sensation of being in water.
+text ...I start to sweat.
+text Stab, stab. Swords are driven into my body.
+text This is the pain caused by my human body rejecting itself as the Magic Circuit.
+text No matter how great a magus you are, a human is human.
+text This pain will result as long as people use magic in a human body.
+bgload special/whiteout.jpg
+bgload pkndp.jpg
+delay 0
+sound se242.mp3
+text But I do not loosen my circulation.
+text At the end of this pain, on the verge of elimination, lies the place of "connection".
+text "------------------------"
+text ...A pain running through my left arm.
+text The Magic Crest starts up on its own to help me, and as a result, violates my nerves even more.
+sound ~
+text The harvested mana in my blood.
+text If that is burning iron, then the Magic Crest itself is like a nerve made of thorns.
+text It runs through my body like a centipede with fangs------
+sound nveum.mp3
+text "------------------------"
+text I lose myself within that pain.
+music ~
+text And at the same time, I feel that I have reached my goal.
+sound ~
+sound ~
+sound se258.mp3 1
+text My overly sensitive hearing keeps recognizing the sound of the clock in the living room.
+text Ten more seconds until two in the morning.
+text The power within me is perfect and flawless.
+sound ~
+sound porxq.mp3
+text "----------------I announce."
+text Let's start.
+text I take the mana I've absorbed and turn it into "fixed" magical energy.
+text And now...
+text I have only to empty out the mana within me to move the engine called the summoning circle...
+sound ~
+sound fcmlu.mp3
+text "--------I announce.
+sound ukxjd.mp3
+text Thy body shall be under my command, my fate shall be determined by thy sword.
+sound utgax.mp3
+text Follow the call of the Holy Grail. If thou wouldst obey this mind and this reason, then answer my call."
+sound ~
+delay 0
+sound se064.mp3
+sound ~
+sound se008.mp3 1
+sound ~
+sound ~
+sound se259.mp3 1
+bgload white.jpg
+bgload utvgo.jpg
+bgload white.jpg
+bgload utvgo.jpg
+bgload white.jpg
+bgload utvgo.jpg
+bgload special/whiteout.jpg
+bgload kkoce.jpg
+text My vision closes.
+text The fifth element, said to be unperceivable by human eyes, is before me.
+text So, in fear of being broken by it, vision shuts itself down.
+sound ~
+sound rtjso.mp3
+text "Make an oath here.
+sound kstqw.mp3
+text I am the one who shall become the virtue of all afterworld.
+sound ammqd.mp3
+text I am the one who shall lay out the evil of all afterworld.
+sound jzpkm.mp3
+text Thou art Seven Heavens clad in the Three Great Words.
+sound prg01_rin_12.mp3
+text Emerge from the ring of control, guardian of balance...!"
+sound ~
+delay 0
+sound se136.mp3
+bgload special/whiteout.jpg
+sound ~
+sound ~
+sound se258.mp3 1
+delay 60
+sound se141.mp3
+sound ~
+text Perfect...!
+text It's so perfect, I feel like I'm tugging on a whale with a fishing rod!
+sound ~
+text "------Perfect...! I've drawn the strongest card for sure...!"
+sound ~
+sound ~
+sound se257.mp3 1
+text Geez, I can't wait for my vision to return.
+text My vision should recover in a matter of seconds and there will be the summoned Servant right in front of me...
+sound ~
+bgload pkndp.jpg
+text ------Nothing.
+sound nbryz.mp3
+text "Huh...?"
+text Nothing is nothing.
+text There is no change.
+text I've raged out that much ether and nothing has formed.
+text And on top of that...
+delay 60
+sound se240.mp3
+text I hear an explosion from the living room.
+sound ~
+sound tzdju.mp3
+text "WHY!!!!?"
+delay 60
+sound se266.mp3
+text I run.
+text I keep running without thinking.
+text I run up the basement stairs and into the living room.
+sound ~
+delay 0
+sound se267.mp3
+sound jqtnz.mp3
+text "...The door's broken!?"
+text The living room door is crooked.
+text There's no point in turning the handle.
+text The door doesn't open, even as I push and pull it.
+sound cilzs.mp3
+text "...Geez, you're in my way...!"
+delay 60
+sound se268.mp3
+delay 60
+sound se073.mp3
+text With a crash, I kick through the door into the living room.
+sound ~
+bgload special/whiteout.jpg
+sound ~
+sound se253.mp3 1
+sound rfmem.mp3
+text "......"
+text And.
+text The instant I walk into the living room, I understand everything.
+sound ~
+sound ~
+bgload a01.jpg
+delay 0
+sound se044.mp3
+delay 60
+sound se038.mp3
+delay 60
+sound se075.mp3
+delay 60
+sound se045.mp3
+delay 59
+sound se075.mp3
+sound ~
+sound se253.mp3 1
+text The living room is in a big mess.
+text It's full of rubble that must have fallen from the ceiling, and there's one man sitting on it cockily.
+text "......"
+text Without a doubt, that is the cause of this mess.
+sound ~
+text "......"
+text But there's one thing more important than that.
+text The wall clock is still ticking away time, having escaped destruction.
+text ...That reminds me.
+text Yes, that's right. Come to think of it, every clock in my house was an hour early today for some reason.
+text In other words, it's one in the morning right now.
+text There's actually one more hour until my magical energy is at its peak.
+sound plabb.mp3
+text "...I did it again."
+text I can do most things just like everyone else, but I have one hereditary curse.
+text That is, to make the biggest mistakes at the most important times....
+sound ~
+sound imasf.mp3
+text "...Well, what's done is done. I should reflect on my actions."
+text I am mad at my own stupidity.
+text Still irritated, I glare at the man sitting there like he's important.
+sound ~
+sound djkws.mp3
+text "So. What are you?"
+sound prg01_arc_00.mp3
+text "Those are your first words? I guess I've been called to a terrible Master."
+text The man in red gives an exaggerated shrug.
+text "Maybe I'm the most unlucky of all," he adds.
+text ...I do declare.
+text This guy has a twisted personality.
+sound ~
+sound prg01_rin_13.mp3
+text "------------"
+text But this would be the Servant?
+text Since they call it a familiar, I thought it was something shapeless, but this is human-like.
+sound ~
+text ...No, that's wrong.
+text Just standing here, I can tell this thing has outrageous amounts of magical energy.
+text Don't be fooled by its appearance.
+text This is certainly an existence far beyond human, a "ghost" that has reached the level of spirits as a human.
+text "------------"
+text I can't be overwhelmed forever.
+text That thing is mine.
+text So, I'll have to change my thinking from now on.
+sound mmrne.mp3
+text "------Just to check, but you are my Servant, right?"
+sound jnyqe.mp3
+text "That's what I'd like to ask. Are you my Master? This is the first time I've been summoned so roughly, so to be honest, I still can't grasp the situation."
+sound ~
+sound htgts.mp3
+text "This is the first time for me as well. I'll have to refuse that kind of a question."
+sound zyroa.mp3
+text "I see. But when I was summoned, you were not in front of me. Explain to me what's going on."
+sound yselw.mp3
+text "Really? Don't joke around and tell me you're like a newborn chick who can only determine your Master when you open your eyes."
+sound ~
+text The unknown Servant frowns.
+text It's a rather vague response, and I cannot tell if he's angry at my complaint or impressed at how correct I am.
+sound xdhdl.mp3
+text "Well, anyway, what I'm asking is. You're my servant and not anyone else's, right?
+sound njeof.mp3
+text Until we clarify this, I have no obligations to answer any other questions."
+sound iggxl.mp3
+text "...That's what you say after failing your summoning? In this case, I think there are other things you should say."
+sound ~
+sound rqwbu.mp3
+text "There's nothing else. We have to clearly determine who's the master first."
+sound hgyqa.mp3
+text "------Hm."
+text The Servant raises his brow.
+text Perhaps because it was an imperfect summoning, this guy isn't even trying to hide his dissatisfaction with me.
+sound ~
+sound pnraj.mp3
+text "Hmm. So we have to define who's master, huh? Your actions are full of mistakes, but it seems your mouth is rather better.
+sound dplwj.mp3
+text ------Yes, I certainly agree with that opinion. Unless we make it clear who is the stronger and who the weaker, it'll be hard to handle each other."
+text The Servant looks at me meaningfully as he lays on the rubble.
+sound ~
+sound vwyad.mp3
+text "Who's the weaker...?"
+sound lssqe.mp3
+text "Yeah. I am a Servant, so I'll accept this Master-Servant relationship. But that's only according to the contract, right?
+sound ppgjm.mp3
+text Who's superior and if the other is worthy to fight alongside with. That's a different story.
+sound mkujn.mp3
+text ------Well? Are you a magus worthy to be my Master, young lady?"
+sound ~
+text The Servant grins.
+text He smashes my house and that attitude like he's king makes me angry enough, but now he asks me if I'm worthy to be a Master...!?
+sound jhkbq.mp3
+text "------I'm not asking for your opinions.
+sound bhcsu.mp3
+text All I'm asking is if you are my Servant or not."
+text I glare at him.
+text I will not lose to someone who looks down on me this frankly.
+sound ~
+sound prg01_arc_01.mp3
+text "Hm, I see, I see. So you're saying such an obvious question isn't even worth answering? How courageous. Your spirit is that of a splendid Master, but...."
+sound prg01_rin_14.mp3
+text "I s-a-i-d, don't get the order wrong...!
+sound nvgyo.mp3
+text It's the duty of the summoner to confirm first. Now answer me. You are my Servant, right...!?"
+text I step forward, ready to attack depending on his answer.
+sound ~
+sound lvjfh.mp3
+text "------Geez. You are a stubborn young lady. We're not getting anywhere this way.
+sound ioplr.mp3
+text ...I guess it can't be helped. Let's say I am your Servant. In that case, would you be my Master? Just hypothetically."
+sound ~
+sound wivxl.mp3
+text "O-Of course...! If you're my Servant summoned by me, who else but me would be your Master...!?"
+text I somehow cool my boiling head and glare at this rude guy.
+sound ~
+sound xfesl.mp3
+text "Oh, I see. Well, let's suppose that's true.
+sound mwcoy.mp3
+text Then, where's the proof that you are my Master?"
+text The Servant talks nonsense, grinning.
+text He must think I'll panic about this proof of Master thing.
+sound ~
+sound nuytn.mp3
+text "Here. This is proof that I'm your Master, right?"
+sound jffxf.mp3
+text "Hm?"
+text I show him the Command Spell on the back of my right hand.
+text Heh, don't think I don't know anything.
+text My father talked a lot about Masters, so I know about the Command Spell.
+sound ~
+sound yhhab.mp3
+text "Are you satisfied? Are you still going to complain?"
+text I thrust before him the proof that I'm a Master.
+text The Servant in the rubble looks confused, then...
+sound qaaou.mp3
+text "...Man. Are you serious, young lady?"
+text His face clouds with discontent.
+sound ~
+sound kppjw.mp3
+text "Wha... what do you mean, am I serious?"
+sound eikyo.mp3
+text "I mean, that way of thinking. So you're a Master if you have a Command Spell? A Command Spell is only a tool that governs the Servant.
+sound coicf.mp3
+text Geez, you act like a Master just because of that?
+sound iuwoh.mp3
+text What I wanted to see was, are you worthy for me to pledge my loyalty to?"
+sound ~
+sound lvles.mp3
+text "Ah... uh."
+text T-That's true, but... you'd normally think of the Command Spell when talking about the proof that one's a Master.
+sound ~
+sound lyydm.mp3
+text "...So, what? I'm not fit to be a Master then?"
+sound prg01_arc_02.mp3
+text "I'd like that, but no go. Since you have the Command Spell, it seems you are my summoner. It's unbelievable, but it seems you really are my Master."
+text He gives an exaggerated shrug of his shoulders.
+sound ~
+sound ~
+text "......"
+delay 0
+sound se044.mp3
+text ------This is bad.
+text My boiling point is so low, it seems I won't be able to cool down in time.
+sound ~
+sound iqngr.mp3
+text "I'm not happy, but I'll accept it.
+sound ygrzk.mp3
+text You're my Master for now. But I have conditions as well. From now on, I will ignore your opinions. I will decide how to fight, and you will follow my plans.
+sound bscpa.mp3
+text This is the best I'll compromise on. You don't mind that, right, young lady?"
+sound ~
+text "----------------"
+delay 0
+sound se045.mp3
+delay 59
+sound se075.mp3
+text Uh, I think this is it, Father.
+text I'm almost at my limit.
+sound ~
+sound fuhba.mp3
+text "...I see. You accept unhappily, but what do you mean about ignoring my opinions? You're my Servant, right?"
+text I ask him in a trembling voice, just in case.
+text There's the issue of the Command Spell too, so this is my last warning, the biggest compromise I can make.
+sound ~
+text And to that...
+sound vuqwe.mp3
+text "Yeah, in name only. So, formally I'll obey you. But I'm the one doing the fighting. You can hide in the basement here and stay there until the Holy Grail War ends.
+sound ikosr.mp3
+text That way, even an inexperienced person like you should make it out alive."
+text He tells me he has no hope for me with eyes full of disdain.
+sound ~
+sound hovdd.mp3
+text "...!!"
+sound engto.mp3
+text "Hm, are you angry? No, I will respect your position, of course. I am called to help my Master win after all.
+sound fqvvu.mp3
+text My victory is yours, and I shall give you everything that I earn in this fight. You shouldn't have any complaints about that, right?"
+sound prg01_rin_15.mp3
+text "----------------I..."
+sound ~
+sound ~
+sound ivbuh.mp3
+text "You wouldn't be able to use the Command Spell anyway.
+sound ncdhc.mp3
+text Well, you can leave the rest to me. You just worry about your own safe...ty...!?"
+sound xcbld.mp3
+text "I'm pissed------!
+sound fdidh.mp3
+text Fine, if you say that, I'll use it!"
+sound ~
+delay 0
+sound se242.mp3
+sound biokv.mp3
+text "Anfang...!"
+text There's no holding back now. I've no sympathy for a twisted guy like him...!
+sound ~
+sound ~
+sound se258.mp3 1
+sound prg01_arc_03.mp3
+text "Wha... you're not...!?"
+sound lghha.mp3
+text "Exactly what you're thinking, you rude scum!
+sound vyehd.mp3
+text "Vertrag...! Ein neuer Nagel Ein neues Gesetz Ein neues Verbrechen------!"
+text (I announce to the Command Spell! By the order of the Holy Grail, give the law of obedience to this one, my Servant!)
+sound ~
+sound klslf.mp3
+text "You idi...! Wait, are you insane, Master!? Who would use the Command Spell for something like this...!"
+sound lllbb.mp3
+text "Shut up!
+sound krrfz.mp3
+text Look, you're my Servant! You have to obey every single one of my orders, okay!?"
+text "W-What...!?"
+sound ~
+sound ~
+sound ~
+sound se259.mp3 1
+bgload special/whiteout.jpg
+delay 0
+sound se242.mp3
+text ------The symbol on my right hand throbs.
+text The three Command Spells.
+text The essence of the Holy Grail War, the three claims to the Servant's unconditional obedience, is now used.
+sound ~
+sound gncba.mp3
+text "A-Are you not even thinking...! Using the Command Spell for such a general thing...!"
+text Huh, it's too late now.
+text ...First of all, I wasn't expecting this either.
+text I hate myself so much, I want to die.
+text To go ahead and use the important Command Spell for something like this...!
+sound ~
+delay 0
+sound se141.mp3
+sound ~
+bgload black.jpg
+bgload bdoph.jpg
+music bgm05.mp3
+text ------So.
+text Leaving the ruined living room behind, we move to my room.
+text In front of me is the Servant who should be "absolutely obedient" from my Command Spell.
+text He's there, but...
+sound ~
+bgload bdoph.jpg
+setimg xhznb.png 73 0
+sound puvlh.mp3
+text "...I see. I understand your personality now, Master."
+text How exactly is this "absolutely obedient"?
+sound ~
+bgload bdoph.jpg
+setimg ypmau.png 47 0
+sound sltnr.mp3
+text "Just to make sure... do you understand how important the Command Spell is, Master?"
+sound ktcll.mp3
+text "I-I know. It's the right to give your Servant three orders, right? What about it?"
+sound ~
+bgload bdoph.jpg
+setimg famqs.png 73 0
+sound qrxsg.mp3
+text "...Geez. Look, the Command Spell forces the Servant to act according to an order.
+sound vcuuy.mp3
+text It doesn't merely stop their actions, it strengthens their actions as well.
+sound ~
+bgload bdoph.jpg
+setimg ypmau.png 47 0
+sound hgtho.mp3
+text For example, I can't instantly teleport to somewhere far away. But if you command me to 'go' using your Command Spell, then assuming we have enough magical energy, such things become possible.
+sound gpwwn.mp3
+text This is what is meant by unconditional obedience. It is the three crystallizations of a great magic that allows a Servant to surpass limits on their ability even they can't control. Well, only two now."
+sound ~
+sound ycpic.mp3
+text "I-I know that. It's fine, we still have two and that order I gave you isn't useless, either."
+sound ~
+sound prg01_arc_04.mp3
+text "...Man. This was certainly a miscalculation on my part.
+sound spvlp.mp3
+text The Command Spell works poorly on broad orders.
+sound ljiwv.mp3
+text For broad and long-lasting orders like 'protect me through this' or 'win this battle', the power of the Command Spell weakens. The force will last a long time, but since the associated pain is weak, some Servants will be able to disobey.
+sound ~
+bgload bdoph.jpg
+setimg cmfgt.png 70 0
+sound rmsoz.mp3
+text In contrast, a single, simple order like 'deliver the next blow with all your power', or 'don't break that glass' is absolute, and even the most powerful Servants will find it hard to disobey.
+sound jemzr.mp3
+text ...So, I think you can guess what I'd like to say next, Master."
+sound ~
+sound prg01_rin_16.mp3
+text "...I get the idea. So you're saying a broad, long-lasting order is meaningless, right?
+sound hcnqk.mp3
+text If the effect is weak, Servants can act against it. It's better to make a single absolute order than to give weak ones, right?"
+sound ~
+bgload bdoph.jpg
+setimg esode.png 70 0
+sound appvs.mp3
+text "Right. Basically, the Command Spell is a way to bring about miracles beyond our abilities. Stupidly using it for orders that can be achieved by other means is unforgivable.
+sound jteov.mp3
+text The Command Spell you just used is exactly that. Whether or not I'll obey you is something that we could have solved by discussion. Even with the command, something like 'obey my every order completely' is beyond even a hundred Command Spells."
+sound ~
+sound bujxm.mp3
+text "Ugh... so the Command Spell I just used was meaningless...?"
+bgload bdoph.jpg
+setimg qsfiz.png 70 0
+sound chmfd.mp3
+text "...Normally, the answer would be yes. But it seems that your abilities as a magus are on a completely different level."
+sound dozzr.mp3
+text "...?"
+text Is he happy or unhappy?
+text The Servant has a smile on his face as he sighs.
+sound ~
+sound ghdmg.mp3
+text "On a completely different level... you mean....
+sound jazgv.mp3
+text Hey, you. Tell me honestly your condition right now."
+text I have a gut feeling, so I ask him boldly.
+sound ~
+bgload bdoph.jpg
+setimg famqs.png 73 0
+sound khvmr.mp3
+text "Yeah, that's what I mean by miscalculation.
+sound cheze.mp3
+text That Command Spell should have only changed my attitude to 'well, I'll respect Master's opinions slightly'.
+sound prg01_arc_05.mp3
+text But right now, I feel a strong bind from your words. If I disagree with you, let's see... it seems like I drop a rank.
+sound zrdlv.mp3
+text In other words, it's like my body feels heavy when I go against your will."
+text The Servant shrugs his shoulders as if to say it's a pain.
+sound ~
+sound taihu.mp3
+text "------So..."
+text ...That means the Command Spell wasn't meaningless, and it worked in my favor?
+text But this guy speaks as sarcastically as always, and it doesn't seem like he's any weaker at all.
+text Though, even if he is weakened when going against me, I doubt even ten of me could take him on...
+sound ~
+bgload bdoph.jpg
+setimg qolwx.png 70 0
+sound csjnw.mp3
+text "Let me take back what I said before, Master.
+sound cxoqu.mp3
+text You are young, but you are an outstanding magus.
+sound qefus.mp3
+text It was my mistake to patronize you and try to keep you out of the battle. I apologize for my rudeness."
+text He adjusts his stance and bows his head politely.
+sound ~
+sound lkkzi.mp3
+text "Uh------hey, stop it. We argued a lot, but they say both sides are usually at fault in this sort of thing..."
+bgload bdoph.jpg
+setimg mfeya.png 47 0
+sound hzsfy.mp3
+text "I see. I'm glad you understand."
+sound wqyxw.mp3
+text "...You changed your tune quickly."
+bgload bdoph.jpg
+setimg mnefe.png 47 0
+sound ywcxg.mp3
+text "Well, it was a miscalculation, but not an unwelcome one. If you're this talented, I have no objections to your involvement in the battle."
+sound ~
+sound msble.mp3
+text "Huh...?"
+text Uh... he seems to be saying he's found a powerful Master, so...
+sound prg01_rin_17.mp3
+text "So you accept me as Master even without the Command Spell?"
+sound ~
+bgload bdoph.jpg
+setimg qolwx.png 70 0
+sound bpovo.mp3
+text "Of course. I wasn't clear back then as I was just summoned, but we are completely connected now. If you're really a magus, you should be able to feel the connection from the contract."
+sound ~
+sound thzmy.mp3
+text "Contract...?"
+text Hm, now that he mentions it, my body does feel strange.
+delay 60
+sound se028.mp3
+text It feels like the nerves, once closed within me, are now pointing outwards.
+text ...And on top of that, part of my magical energy is flowing into the man in front of me.
+sound ~
+sound rpscz.mp3
+text "I see. Servants are called by the Holy Grail, but what keeps them in this world is..."
+sound nazta.mp3
+text "Right, the power of the Master. Servants stay in this world by receiving magical energy from their Masters."
+sound ~
+sound xqdqc.mp3
+text "The magical energy you supply is sufficient. There might be problems with your experience, but your ability is outstanding.
+sound prg01_arc_06.mp3
+text A normal magus would pass out after summoning a Servant, but you're still full of energy.
+sound mgxqu.mp3
+text The Command Spell earlier, and this amount of magical energy... you're definitely a first class Master."
+sound ymmlb.mp3
+text "...! H-Heh! Praising me now won't do you any good."
+bgload bdoph.jpg
+text A bit embarrassed, I avert my gaze.
+sound ~
+text ...I wasn't really expecting this.
+text I'm forcing him to obey with the Command Spell, but for a Servant, a being superior to humans, to honestly accept that I am his Master....
+sound xmewq.mp3
+text "...So? Which Servant are you?"
+text I collect myself and finally get to the point.
+bgload bdoph.jpg
+setimg mfeya.png 47 0
+sound jvngk.mp3
+text "You can't tell from my appearance, huh? Ah, excellent."
+text ......
+text No, I was just mistaken before.
+text This guy is certainly making fun of me.
+sound ~
+sound cptsp.mp3
+text "...All right, this is a question from your Master.
+sound hbqyg.mp3
+text You're not Saber, are you?"
+bgload bdoph.jpg
+setimg qsfiz.png 70 0
+sound aenam.mp3
+text "I'm sorry, but I don't have a sword."
+sound ~
+sound wsfhd.mp3
+text "----------------"
+text ...As I suspected.
+text This is natural, though. I mistook the time, the summoning circle didn't work, and I even summoned the Servant to the wrong place.
+text It was all too clumsy to call Saber, the strongest Servant.
+sound ~
+sound mkstn.mp3
+text "...What a blunder. Using that many jewels and not calling Saber... it's too appalling to face."
+bgload bdoph.jpg
+setimg cmfgt.png 70 0
+sound aqyrh.mp3
+text "...Hmph. Well, I'm sorry I'm not Saber."
+sound negrv.mp3
+text "Huh? Uh, well, it was a big mistake and I regret it, but it's my fault, so..."
+bgload bdoph.jpg
+setimg dyhbz.png 47 0
+sound xbrhy.mp3
+text "Yeah, Archer isn't too flashy, I know.
+sound ntimd.mp3
+text All right, I'll make you regret your abuse later on. And I won't accept any apologies when that time comes."
+sound ~
+sound prg01_rin_18.mp3
+text "...Huh?"
+text ...This is unexpected.
+text The unknown Servant seems disappointed by my fixation on Saber.
+sound ~
+sound ptxhf.mp3
+text "What, did I get on your nerves, Archer?"
+bgload bdoph.jpg
+setimg cmfgt.png 70 0
+sound vvqhy.mp3
+text "I get it. But keep your eyes open as I will definitely show you how lucky you are."
+sound ~
+text Archer protests with narrow eyes.
+text The air he carries is offensive, but his behavior seems childlike and pure.
+text ...You know...
+text He might be a pretty good guy.
+sound pzucb.mp3
+text "All right. Then be sure you make me regret it later on, Archer.
+sound akkmk.mp3
+text If you do, I'll honestly apologize."
+bgload bdoph.jpg
+setimg qsfiz.png 70 0
+sound godwz.mp3
+text "Yeah, and don't you forget it, Master. Know how great the one you summoned is and be grateful.
+sound tzpvo.mp3
+text Though, even if you do apologize then, I probably won't be satisfied."
+bgload bdoph.jpg
+text Archer grins again.
+text Huh, maybe he does have a twisted personality after all.
+sound ~
+sound dluts.mp3
+text "Well, fine. Leaving that aside, which heroic spirit are you?"
+bgload bdoph.jpg
+setimg qsfiz.png 70 0
+text "--------"
+text Archer doesn't answer.
+text His sarcastic tone disappears, and he frowns seriously.
+sound ~
+sound owduf.mp3
+text "Archer? Your Master is asking you a question."
+sound prg01_arc_07.mp3
+text "That's... a secret."
+sound qgolb.mp3
+text "Huh...?"
+sound nxayy.mp3
+text "I can't answer the question of who I am, because------"
+sound yojui.mp3
+text "Hold on. If it's for a stupid reason, I'll be pissed."
+sound ~
+bgload bdoph.jpg
+setimg kfrqu.png 70 0
+sound lhbqn.mp3
+text "--------------It's..."
+text Oh, that face again.
+text Archer must be really troubled as he opens his mouth like he'd rather not say anything.
+bgload bdoph.jpg
+setimg qolwx.png 70 0
+sound asuoh.mp3
+text "------It's because I don't know myself."
+text ...Wait, what was that..?
+sound ~
+sound jlndw.mp3
+text "Whaaaaaaat!? Are you making fun of me!?"
+sound fmzoz.mp3
+text "...I didn't mean to insult you, Master.
+sound nrbjw.mp3
+text But this is what you get for your failed summoning. It seems my memory is confused. I know who I am, but things like my name and origin are a bit vague... Well, they're trivial things to be missing, so we shouldn't worry about it."
+sound ~
+sound qizoq.mp3
+text "Don't worry about it? Of course I'm worried about it!
+sound prg01_rin_19.mp3
+text If I don't know which heroic spirit you are, I can't tell how strong you are!"
+bgload bdoph.jpg
+setimg mnefe.png 47 0
+sound mypfn.mp3
+text "Oh, that's no problem. It's a trivial matter."
+sound lmxpq.mp3
+text "Trivial, you say? How can I make a plan when I don't know how strong my partner is!? There's no way we can fight like this!"
+sound ~
+bgload bdoph.jpg
+setimg yrtte.png 62 0
+sound smcbo.mp3
+text "What are you saying? I am the servant you summoned. Naturally, I am the strongest."
+music ~
+text Straightforwardly.
+text The knight in red looks at me with absolute confidence and trust.
+sound ~
+sound qaank.mp3
+text "Wha..."
+text My thoughts freeze.
+text There's no dishonesty in Archer's words.
+text He thinks more highly of my power than I do, even though we've only just met.
+sound ~
+sound xbsmk.mp3
+text "----------------"
+text ...My face is burning.
+text Geez, I'm definitely blushing.
+text Why am I so weak against unexpected things?
+sound ~
+music bgm07.mp3
+sound ysnkv.mp3
+text "...Well, fine. It'll make no difference that no one will know your true identity. They do say that to fool your enemies, you must first fool your allies..."
+text I say this to hide my embarrassment, looking away from Archer.
+text Well, I can find out later how good a Servant he is.
+text For now, I have a higher priority.
+sound ~
+sound bjlog.mp3
+text "All right. I shall not question you about your true identity for now.
+sound ovums.mp3
+text So Archer, here's your first task."
+bgload bdoph.jpg
+setimg lrdru.png 73 0
+sound impqw.mp3
+text "Already? You are aggressive.
+sound boyle.mp3
+text So, who's our enemy------"
+text As he's asking, I throw a dustpan and broom in front of him.
+sound ~
+bgload bdoph.jpg
+setimg cmfgt.png 70 0
+sound prg01_arc_08.mp3
+text "------Huh?"
+sound yamfv.mp3
+text "Clean the room downstairs, please. You made that mess, so be responsible and clean the place up."
+music ~
+bgload bdoph.jpg
+setimg esode.png 70 0
+delay 60
+sound se249.mp3
+text "------------"
+text He stands there blankly for ten seconds.
+text After recovering his thoughts, he grabs the broom ready to make an objection.
+sound ~
+music bgm04.mp3
+bgload bdoph.jpg
+setimg cmfgt.png 70 0
+sound qcxie.mp3
+text "Hold on. Just what do you think a Servant is?"
+sound gezqz.mp3
+text "A familiar, right? He's a bit insolent, so he's difficult to control."
+bgload bdoph.jpg
+setimg ltwdz.png 62 0
+text "----------------"
+text Archer swallows his words.
+text I don't intend to take back my words, and I do have a trump card.
+sound ~
+bgload bdoph.jpg
+setimg ypmau.png 47 0
+sound orlge.mp3
+text "Objection. I refuse such an ord------"
+sound fhetx.mp3
+text "Really? This is an order as a Master. Doesn't your body feel heavy when you go against your Master's wishes?"
+bgload bdoph.jpg
+setimg nlxco.png 62 0
+sound amnlw.mp3
+text "Ugh."
+sound ~
+sound prg01_rin_20.mp3
+text "Well, I'm sure it's nothing to you, but the penalty would continue until you clean up the living room. Won't it be dangerous to fight in such a condition from tomorrow?"
+sound azhsu.mp3
+text "Ugh."
+text He groans for a few seconds, clenching the broom.
+sound ~
+text The Servant in the red coat, Archer, closes his eyes in dismay.
+bgload bdoph.jpg
+setimg qsfiz.png 70 0
+sound dscmi.mp3
+text "Understood. Damn you, Master."
+bgload bdoph.jpg
+text He acknowledges my request gracefully.
+sound ~
+text Well.
+text It's getting late, so I should rest for tonight.
+text I can decide about how to treat him after I wake up.
+music ~
+sound ~
+sound se004.mp3 1
+bgload jkhfj.jpg
+bgload etjen.jpg
+text ------The day of fate comes to a close.
+text No, this night is the start of fate.
+text There are six including myself now.
+text Once the last one summons a Servant, the seventh one who is not yet a Master, this Holy Grail War will commence.
+text It's not far ahead.
+text The battle I've waited ten years for is about to commence....
+sound ~
+jump prologue01.scr

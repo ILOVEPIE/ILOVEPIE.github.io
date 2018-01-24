@@ -1,0 +1,1841 @@
+text ~
+text <DATE 02/02>
+text ~
+bgload black.jpg
+bgload special/whiteout.jpg
+bgload jqmgw.jpg
+music bgm03.mp3
+text So.
+text After breakfast, I clearly explain my immediate plans.
+bgload jqmgw.jpg
+setimg esode.png 70 0
+sound prg03_arc_00.mp3
+text "What? You're going to school?"
+sound prg03_rin_00.mp3
+text "Yes. Do you have a problem with that, Archer?"
+sound jspfa.mp3
+text "...No problems, it's just..."
+sound ~
+bgload jqmgw.jpg
+setimg kfrqu.png 70 0
+text Archer hesitates, but does not object.
+text He must have realized yesterday that I'm not the type to take back my decisions.
+text I can kind of tell without him saying so. Archer is sarcastic, but he has an honest side to him. So it seems he won't complain about something he's accepted.
+text Yes, in other words, he's faithful in an awkward way.
+text This is my conclusion... no, more of an intuition after watching Archer for all of yesterday.
+bgload jqmgw.jpg
+setimg nlxco.png 62 0
+sound kzlaw.mp3
+text "Rin. As you are a Master now, you must always be cautious of other Masters. School is a place where it's hard to remain prepared against sudden attacks."
+sound ~
+sound agkpr.mp3
+text "That's not true. Look, Archer, even though I am a Master now, I don't intend to change my lifestyle. Besides, a battle between Masters is something that should be done out of public view, right? So, if we are at school where there are lots of people, I don't think we'll see any kind of surprise attacks."
+sound ~
+bgload jqmgw.jpg
+setimg esode.png 70 0
+sound tqswe.mp3
+text "...I see. If that's what you've decided, I can only obey.
+sound pywtv.mp3
+text But I can guard you in spirit form, right? You don't intend for me to stay here while you go to school?"
+sound ~
+sound tsfpn.mp3
+text "Of course not. Not just at school, but I will want you by my side whenever I go outside. It is the Servant's role to protect the Master, so I'll be counting on you."
+bgload jqmgw.jpg
+setimg qsfiz.png 70 0
+sound cjirk.mp3
+text "I'm relieved to hear that. It is the duty of a knight to answer trust placed on us. I shall do my best to meet your expectations."
+sound ~
+bgload jqmgw.jpg
+setimg qolwx.png 70 0
+sound xickn.mp3
+text "But Rin, just hypothetically, what would you do if there were an enemy in that safe place?"
+sound naqhg.mp3
+text "Hm? What, are you suggesting there might be a Master at school?"
+sound aosbr.mp3
+text "That's right. It's certainly hard for anyone who isn't a teacher or student to get in, but wouldn't it be a problem if someone already there is a Master?"
+sound ~
+sound ndkig.mp3
+text "I don't think that's possible. In this town, there's only one family of magi other than the Tohsaka. That other family has declined, and they don't even have a Master."
+sound ~
+bgload jqmgw.jpg
+setimg esode.png 70 0
+sound hvgnr.mp3
+text "How do you know there isn't a Master?"
+sound kjpmf.mp3
+text "Hey, it's only natural to investigate another family of magi in the same town.
+sound cmrsd.mp3
+text He isn't a Master and his successor doesn't have enough magical energy to become a Master, so we can just ignore them."
+sound ~
+sound tamly.mp3
+text "I see. So, there is another magus at the school you go to. But you say that magus doesn't have sufficient magical energy to become a Master, is that correct?"
+sound ~
+sound paczs.mp3
+text "Exactly. So most Masters will probably be coming from elsewhere. I don't think such people would come to the school."
+bgload jqmgw.jpg
+setimg ypmau.png 47 0
+sound prg03_arc_01.mp3
+text "...Well, for now, at least.
+sound iitfy.mp3
+text But Rin, there are always exceptions. What if there is a magus at your school that you don't know about?"
+sound ~
+sound wyebl.mp3
+text "Like I said, there aren't any. Magi are sensitive to other magi. If we were at the same school for a year, I should be able to sense other magi no matter how well they hide it.
+sound sxmww.mp3
+text I will state with confidence that there are only two magi at our school. One of them is me, and the other is only an apprentice who doesn't have enough power to become a Master.
+sound prg03_rin_01.mp3
+text Do you understand? Your caution is just needless worrying. It's completely impossible."
+sound ~
+bgload jqmgw.jpg
+setimg hkiyt.png 70 0
+sound uudyl.mp3
+text "That's why this is only a hypothetical scenario. There's always another side to things.
+sound bcrkl.mp3
+text It's only natural for unexpected things to occur.
+sound xvwpx.mp3
+text I'm saying that when it does happen, do not blame me."
+sound ~
+text Archer smiles dryly.
+text ...Just that action makes me want to take it out on him, but if I did, I would be late for school.
+bgload jqmgw.jpg
+setimg ypmau.png 47 0
+sound hjkaa.mp3
+text "That won't happen. A hypothetical is a hypothetical because it won't happen. If it does, it just means my analysis was too shallow."
+sound ~
+bgload jqmgw.jpg
+setimg mfeya.png 47 0
+sound uxaxj.mp3
+text "All right, I'll remember that. Let's go then, Rin.
+sound tltpm.mp3
+text It should take thirty minutes to get to the school, so we won't make it unless we leave soon."
+sound ~
+music ~
+bgload black.jpg
+sound ~
+sound se272.mp3 1
+bgload xuudu.jpg
+sound qnzwa.mp3
+text "I'm surprised. Hypotheticals do happen."
+sound udflt.mp3
+text "Yes, I am surprised as well. Wow, it pays to argue over everything. It had an unexpected payoff."
+sound ~
+text As soon as we pass the school's main gate, we joke around like that.
+text Around us are students heading to classrooms and it's almost time for homeroom.
+text In the crowd of people rushing into the school building, we stand dumbfounded.
+sound vxoeg.mp3
+text "This isn't just the air stagnating. Isn't there a boundary field set up already?"
+sound iyzmc.mp3
+text "It's not complete, but the preparation seems to have already started.
+sound xbvtc.mp3
+text If he's doing this so openly, he must be a real big shot...."
+sound ~
+sound ehypi.mp3
+text "Or a complete amateur. A boundary field that lets others notice the abnormality is only third class. To be first class, it has to be hidden until it's activated."
+sound prg03_arc_02.mp3
+text "------So. Which do you think it is, Rin?"
+sound ~
+sound mfjvl.mp3
+text "Who knows? I don't care if he's third class or first class.
+sound klhpk.mp3
+text I'm just going to beat him mercilessly for setting up such an indecent thing in my territory."
+sound ~
+text I walk angrily through the schoolyard.
+text As a magus, I'm not about to mince words, but I can't be satisfied until I properly punish the creator of this boundary field.
+sound ~
+delay 0
+sound se020.mp3
+bgload jriqr.jpg
+text After second period, while walking back from the music room...
+text I see a first year student walking unsteadily.
+text The student is carrying some stack of papers and it looks like she 's having trouble.
+sound ~
+sound nikbp.mp3
+text "I'll help, Sakura."
+music bgm05.mp3
+bgload jriqr.jpg
+setimg vkpbx.png 147 42
+sound prg03_sak_00.mp3
+text "Huh------?"
+bgload jriqr.jpg
+setimg xsinp.png 80 19
+sound jtars.mp3
+text "Ah, Tohsaka...Senpai------"
+sound ufdjp.mp3
+text "What, handouts? World history... that'll be my homeroom teacher. That Kuzuki, what's he thinking making a girl do this? Here, give me half of it."
+sound ~
+bgload jriqr.jpg
+setimg bqmpb.png 91 17
+sound nhdpm.mp3
+text "Oh... Yes. Thank you, Senpai."
+sound fiufv.mp3
+text "It's fine. So, we're taking these to your classroom?"
+bgload jriqr.jpg
+setimg cprfu.png 87 18
+sound glzgr.mp3
+text "...No, we're taking them to Kuzuki-Sensei. He said he's recalling them because there was a misspelling."
+sound ~
+sound prg03_rin_02.mp3
+text "...I understand. Kuzuki's really stubborn. He's the guy who cancelled a whole test just because there was one misspelling in it."
+bgload jriqr.jpg
+setimg acpgg.png 93 17
+sound iseav.mp3
+text "...Huh? You mean the school's exam?"
+sound ~
+sound ylqwn.mp3
+text "Right. I think it was last year's midterm. He came in while everyone was filling in their names and said in his usual tone that the midterm has a misspelling in it. He said that the question was not correct, so the midterm was to be cancelled and retaken at a later date. We were surprised, but so were the teachers, and they still talk about it today."
+sound ~
+bgload jriqr.jpg
+setimg mjzrf.png 89 17
+sound bzabz.mp3
+text "That's just like Kuzuki-Sensei. He doesn't think teachers should make any mistakes."
+sound gpvzj.mp3
+text "He goes too far, though. You'll realize soon, too. Kuzuki is as stubborn as a rock or a mountain."
+sound ~
+bgload jriqr.jpg
+setimg cmjkk.png 89 19
+sound onwyl.mp3
+text "Heehee. Tohsaka-Senpai, you must like Kuzuki-Sensei. It's rare for you to talk about someone like that."
+sound zisdl.mp3
+text "Really? ...Well, I do think he should be more flexible, but..."
+text I think that, but I also think he's not bad this way.
+sound ~
+bgload jriqr.jpg
+setimg tpaxz.png 89 17
+text At our school, there's a teacher liked by all students and a teacher feared by all students.
+text The balance between the two works so well that I think Kuzuki-Sensei is a good disciplinarian. He's the stick in the carrot and stick approach.
+sound ynazx.mp3
+text "Well, you'll get to see more of him once you reach second year. He teaches ethics too.
+sound mpgpz.mp3
+text ...More importantly, Sakura, is it all right if I ask you something?"
+bgload jriqr.jpg
+setimg mjzrf.png 89 17
+sound hphts.mp3
+text "Huh? What is it, Senpai?"
+sound nivsb.mp3
+text "It's about yesterday. Were you talking to a strange foreigner?"
+sound ~
+bgload jriqr.jpg
+setimg rvgre.png 86 18
+sound thcha.mp3
+text "Oh... y-you were watching, Senpai?"
+bgload jriqr.jpg
+setimg ukszd.png 86 18
+sound jfsiz.mp3
+text "Just by chance. So, what was it? Do you know him?"
+bgload jriqr.jpg
+setimg yugap.png 86 18
+sound omrde.mp3
+text "...No. Well, he was a strange person and he seemed to be lost. He asked me lots of things, but I couldn't make out what he was saying, so, um..."
+bgload jriqr.jpg
+setimg sstny.png 91 17
+text Ah, so she ran away.
+sound ~
+sound ljnmc.mp3
+text "I see. Sorry, I was just a bit curious."
+bgload jriqr.jpg
+setimg tpaxz.png 89 17
+sound prg03_sak_01.mp3
+text "No, it's all right... Um, here is fine, Senpai. I only have to hand these to him now."
+sound cjndg.mp3
+text "Okay. See you later then."
+bgload jriqr.jpg
+text I pass the handouts back to Sakura.
+text As I start to head back to my classroom, I pause.
+sound ~
+sound prg03_rin_03.mp3
+text "Sakura, how are things?"
+bgload jriqr.jpg
+setimg nmirh.png 80 19
+sound ztmex.mp3
+text "Ah... yes, it's okay. I'm doing fine."
+sound cvfid.mp3
+text "...I see. Well, if Shinji does something again, tell me. He doesn't know when to stop, so it will only get worse if you don't say anything."
+sound ~
+bgload jriqr.jpg
+setimg zmrcg.png 87 18
+sound aahzt.mp3
+text "It's fine. You don't need to worry, Senpai. Nii-san has been kind recently."
+text ...If she says that with such a smile, I can't say anything else.
+text I bid her goodbye once more and turn my back on the familiar junior.
+sound ~
+music ~
+bgload tiifg.jpg
+delay 0
+sound se020.mp3
+text The day ends.
+text Students leave the classroom and the building gets darker by the second.
+text The sun will set soon.
+text When the red sun sets and night falls, there should be no one left in the school.
+sound ~
+sound yseaa.mp3
+text "Let's begin, Archer. First, we need to check out the boundary field. Once we figure out what kind of boundary field it is, we'll decide whether to eliminate it or leave it."
+text I address my invisible partner.
+text Archer must understand as I sense him nodding.
+sound ~
+sound ~
+text A boundary field is something that protects its caster.
+text You could call it a geographical magic in which one knits a line of magic across a land to change the interior.
+text Infinite different effects are possible within a boundary field.
+text There are all sorts of boundary field, from ones that conceal the area from people's eyes, to ones that limit the use of magic within them.
+text The most aggressive of all are those that oppress life forms within them.
+text The boundary field laid out over our school is of that kind.
+text It is not yet complete, but once it is, everyone in the school should fall unconscious.
+text But something like this won't affect me.
+text After all, a boundary field is something targeted not at me, but at the place I am in.
+text Such an indirect magical energy intervention has no effect on magi, who have magical energy throughout their bodies.
+text A weak current floating through the air will only be repelled by a strong current like myself.
+text So this boundary field has a different intention.
+text I don't know what kind of person set up this boundary field, but his intention is not to defeat a Master.
+text It's hard to believe, but his target is everyone in this school.
+text ...There's only one reason to do something like that.
+text Unbelievably, this guy is--------
+bgload oject.jpg
+sound ~
+sound se008.mp3 1
+text I search the school building and emerge onto the rooftop to finish.
+text It's dark outside.
+text It's eight o'clock now, way past the school closing time which is six.
+text The only people still in the school are me and Archer.
+sound kgavm.mp3
+text "------So, this makes seven. Well, it looks like this is the origin."
+text A seven-stroke mark is openly drawn on the rooftop.
+text This purplish-red character only visible to magi is something I have never seen before, engraved with something unknown.
+sound ~
+sound hvqkc.mp3
+text "...Dammit. This isn't something I can handle."
+text The person who set up this boundary field didn't think about anything.
+text He didn't think, but the boundary field is bound with amazing skill.
+text I can temporarily drain magical energy from this boundary field, but I cannot eliminate the boundary field itself.
+text The boundary field can be reactivated just by having the caster put more magical energy into it again.
+sound ~
+text "----------------"
+text Archer says nothing.
+text ...He's been quiet ever since we came out onto the rooftop, probably because he too recognizes the power of this boundary field.
+text This boundary field doesn't just drain one's strength.
+text Once activated, it will literally "dissolve" all the people within it.
+text There are boundary fields that drain physical and mental strength from people within them.
+text But the boundary field laid out over this school is on a completely different level.
+text This is a soul-eater. It is a Bloodfort that dissolves people within it and claims the souls that seep out.
+text Since ancient times, souls have been hard to handle.
+text Even though they're believed to exist and are necessary for magic, only one magus has ever understood the soul.
+text Souls are only "things to be investigated", or "things to be moved into containers".
+text It's incomprehensible not merely to suck them out but also to collect them in a single place.
+text It's because a magus has no use for them even if one were to collect this unconvertible energy.
+text So if there's a reason, it must be...
+sound lzjgi.mp3
+text "Archer. Are you Servants... this kind of creature?"
+text I ask coldly.
+sound ~
+sound lhjgp.mp3
+text "...It is as you suspect. I told you we are basically spirits. Therefore, our meals consist of souls and mental constituents.
+sound xpdpx.mp3
+text As you subsist on meat, we subsist on souls and minds.
+sound yikbo.mp3
+text Our basic abilities do not change from such nourishment, but we do become tougher. In other words, our magical energy capacity increases."
+sound ~
+text ...Yes.
+text To strengthen your Servant, you must attack people indiscriminately.
+sound mltxc.mp3
+text "So the magical energy the Master provides isn't enough?"
+sound bbicy.mp3
+text "It's not that, but it doesn't hurt to have more. In war, if you lack strength, you make up for it with supplies, right?
+sound keeug.mp3
+text It's a basic tactic for a Master to steal energy from the people around them. In that regard, this boundary field is very efficient."
+sound ~
+text "----------------"
+text Archer is saying that if I want to win, I should kill people and steal their strength.
+text How simple.
+text I already knew that.
+text That's why I think I know which path I am going to choose.
+sound awdvr.mp3
+text "That annoys me. Don't ever mention it again, Archer."
+text I say so while staring at the mark on the ground.
+text For some reason, Archer sounds happy as he confidently answers,
+sound senbw.mp3
+text "I feel the same way. I do not intend to do so either."
+sound ~
+sound ylesy.mp3
+text "...Well, let's erase this. It's meaningless, but it should hinder them a bit."
+text I approach the mark engraved on the ground and extend my left arm.
+text The Magic Crest on my left arm is the "book of magic" passed down the Tohsaka family.
+sound ~
+sound ~
+delay 0
+sound se003.mp3
+text I switch on my sense.
+text I push magical energy into my Magic Crest, read the part that explains the elimination of boundary fields, and now all I have to do is activate it.
+sound ~
+delay 0
+sound se242.mp3
+sound ~
+sound nzuyt.mp3
+text "Abzug. Bedienung Mittelstand."
+text Eliminate. Surgical extraction, second section.
+text I touch the ground with my left hand and let my magical energy flow out.
+text This will at least wash the color off this mark, but------
+sound prg03_ran_00.mp3
+text "What, you're going to erase it? What a waste."
+text Suddenly.
+text As if to stop the erasure of the boundary field, a voice echoes over.
+sound ~
+music bgm29.mp3
+sound ~
+sound prg03_rin_04.mp3
+text "--------!"
+text I quickly stand up and turn around.
+bgload a43a.jpg
+text On top of the water tower.
+text In the sky ten meters away, a guy is looking down at me.
+sound ~
+text Deep ultramarine that melts into the night.
+text His grin is wild and a bestial smell carries on the wind.
+text ...The stare of the beast is a cool one.
+text The man in blue looks at me like an old friend, even in this situation------
+sound eqeyk.mp3
+text "------Is this your doing?"
+sound ~
+sound xnhim.mp3
+text "No. Petty tricks are the magi's job. We only fight as we are commanded to. Isn't that right, you over there?"
+sound ~
+sound vceum.mp3
+text "--------!"
+text Casual, but his voice is filled with murderous intent.
+text This guy can see Archer...!
+sound ~
+sound egmcv.mp3
+text "As I thought, a Servant...!"
+sound ofeoo.mp3
+text "That's right. Since you can tell, I can consider you as my enemy, right?"
+delay 60
+sound se028.mp3
+sound tdgjh.mp3
+text "----------"
+text My spine freezes.
+text A normal, light tone of voice.
+text And it's colder than anything I've ever heard, scary enough to make me vomit....
+sound ~
+music ~
+text "----------------"
+text I can't tell how I should move or what my best course is.
+text But my reason is telling me absolutely not to fight this man right here--------!
+sound myrqk.mp3
+text "...Wow. That's pretty good. You seem like you don't know anything, but you grasp the important points.
+sound zfzap.mp3
+text Man, I messed up. I shouldn't have called out to you just for fun."
+text The man raises his arm.
+text "----------------"
+music bgm09.mp3
+text It happens in an instant.
+text The arm that held nothing until now...
+bgload red.jpg
+bgload a43b.jpg
+text Now holds a red weapon, two meters long.
+sound ~
+delay 0
+sound se090.mp3
+bgload pgnym.jpg
+sound iozgd.mp3
+text "Hah----------------!"
+text I jump to the side without thinking.
+text I can't spare the time to consider that I can't jump full force while on a rooftop.
+text I just jump with full force to the side as if trying to smash the fence...!
+sound ~
+delay 0
+sound se101.mp3
+delay 28
+sound se084.mp3
+bgload qfjte.jpg
+delay 60
+sound se104.mp3
+text A whirlwind brushes past my hair.
+text ------Barely made it.
+delay 60
+sound se109.mp3
+bgload black.jpg
+text He rushed me in an eyeblink and mercilessly slashed at the space I just occupied.
+sound ~
+sound okwlj.mp3
+text "Hah, you've got some good legs, young lady...!"
+text ------The blue whirlwind pursues me.
+bgload pgnym.jpg
+delay 60
+sound se263.mp3
+bgload oject.jpg
+delay 60
+sound se263.mp3
+text There are no escapes.
+text The fence is behind me. To my sides... no, I won't make it...!
+sound ~
+bgload lbrfd.jpg
+delay 0
+sound se131.mp3
+sound agqsx.mp3
+text "Es ist gros, es ist klein....!!"
+text My response is fast.
+text I run the Magic Crest on my left arm and assemble the magic in a single measure.
+text It lightens my body and adjusts gravity.
+text In this instant, my body becomes light as a feather, and I leap--------
+sound ~
+sound rxraw.mp3
+text "Rin...!"
+sound tzirb.mp3
+text "I know, let me handle it...!"
+text I jump over the fence and fall from the rooftop.
+sound ~
+delay 0
+sound se092.mp3
+sound ~
+sound se264.mp3 1
+bgload mjbkd.jpg
+sound wwqws.mp3
+text "--------"
+text The wind and pressure push against my body.
+text Fifteen meters to the ground, 1.7 seconds until landing...
+text No, that's too slow. He'll catch up...!
+sound ~
+sound dtkfs.mp3
+text "Vox, gott es Atlas--------!
+sound prg03_rin_05.mp3
+text Archer, take care of the landing...!"
+sound ~
+delay 0
+sound se120.mp3
+sound ~
+bgload lbrfd.jpg
+delay 60
+sound se145.mp3
+delay 60
+sound se265.mp3
+sound vnzro.mp3
+text "--------Hah--------!"
+delay 51
+sound se090.mp3
+text I let Archer take the impact of the landing and start to run as soon as my feet touch the ground.
+text ------First, I have to change the location.
+text We have to go somewhere we can move around freely, not a small place like a rooftop.
+text We have to move to a large field with no obstacles, to play to Archer's and my strengths...!
+sound ~
+delay 0
+sound se092.mp3
+bgload ymhgl.jpg
+sound ypxol.mp3
+text "Hah, hah...!"
+text I run from the rooftop to the schoolground in less than seven seconds.
+text It's more than a hundred meters. My speed is so fast that normal people would see only a blur.
+sound ~
+text But that's...
+music ~
+bgload ymhgl.jpg
+setimg oxqal.png 82 0
+sound vhxxg.mp3
+text "Man, those are really good legs. It'll be a waste to kill you here."
+text ...Meaningless against a Servant.
+sound ~
+sound nkgxf.mp3
+text "Archer--------!"
+delay 46
+sound se136.mp3
+bgload ymhgl.jpg
+setimg tujrl.png 59 0
+text At the moment I step back, Archer steps in front, taking form.
+text A cloudy night.
+text In Archer's hand is a shortsword that reflects the weak moonlight.
+sound ~
+sound elonr.mp3
+text "------Wow."
+text The man crooks his mouth.
+sound drcjg.mp3
+text "...That's good. That's the way to go. I don't mind people who are quick on the uptake."
+delay 60
+sound se101.mp3
+text A large whirlwind.
+text ...That's the weapon swung at me on the rooftop... the blood red crimson lance that tried to mercilessly slaughter me------
+sound ~
+sound ubfuh.mp3
+text "Servant... Lancer--------"
+bgload ymhgl.jpg
+setimg fckac.png 82 0
+sound liihi.mp3
+text "That's right. And your Servant is Saber
+text 
+bgload ymhgl.jpg
+setimg hdhbt.png 82 0
+sound prg03_ran_01.mp3
+text ...Or maybe not. Who the hell are you?"
+text There's no sign of his previous casual demeanor.
+text In response to Lancer, full of murderous intent, Archer remains silent.
+sound ~
+text ...The distance between the two is about five meters.
+text The weapon in Lancer's hand is about two meters.
+text For that man with the bestial smell, I feel like the remaining three meters are meaningless.
+sound xtkok.mp3
+text "...Heh. You're not the type to engage in one-on-one combat. So you must be Archer."
+text Archer doesn't respond to the sneering voice either.
+text Confronting each other, strangely, are red and blue.
+text The two counterfeit colored knights are already watching for the other's clinching blow.
+sound ~
+sound qkjqx.mp3
+text "...All right. I don't like it, but now we've met, we'll just have to fight. Come on, take out your bow, Archer.
+sound hvkmz.mp3
+text I have some manners, so I'll at least wait for that."
+bgload ymhgl.jpg
+setimg tujrl.png 59 0
+text "----------------"
+text Archer does not respond.
+text There's nothing to say to an enemy he must defeat.
+text That steel back of his seems to declare so.
+sound ~
+text "--------"
+text That makes me realize.
+text ...I'm being stupid. Archer is just waiting for my word, my command.
+sound rcxbu.mp3
+text "Archer."
+text I talk to his back without approaching him.
+sound gnqyp.mp3
+text "I won't help you. Show me your powers here."
+sound uqobh.mp3
+text "--------Heh."
+text Was that a laugh?
+text He grins as if to answer my words, and the red knight dashes forward.
+sound ~
+delay 0
+sound se083.mp3
+music bgm11.mp3
+bgload special/whiteout.jpg
+text Twirling gusts of wind.
+delay 60
+sound se085.mp3
+bgload oxglk.jpg
+delay 60
+sound se094.mp3
+text Shortsword in hand, the red bullet launches.
+delay 47
+sound se093.mp3
+bgload zhuwe.jpg
+sound xmqfr.mp3
+text "--------You fool!"
+text What meets him is a blue spear-thrust.
+text If the dashing Archer is a raging wind, the responding spearhead is a divine wind.
+sound ~
+bgload mptta.jpg
+delay 0
+sound se101.mp3
+bgload fyfqr.jpg
+delay 28
+sound se110.mp3
+bgload special/whiteout.jpg
+delay 25
+sound se126.mp3
+text The sword is swung, a swing to deflect the thrust.
+text Archer parries the thrust of the high speed lance with his shortsword.
+sound ~
+sound auhxl.mp3
+text "......!"
+text The one in red stops.
+text The enemy did not permit Archer's rush.
+text The enemy doesn't even let him get within two meters, the range of the spear.
+text For a long weapon, distance is always preferred.
+text As Lancer has a weapon almost two meters long, he only needs to attack when the enemy comes into his range.
+text Thrusting at an approaching enemy is easier than moving out yourself.
+sound ~
+text But even so.
+text Lancer closes the distance himself and doesn't even allow Archer to move forward.
+sound vxkui.mp3
+text "Idiot, a mere bowman challenging a close-range fight--------!"
+delay 60
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se103.mp3
+bgload nayqy.jpg
+delay 57
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se100.mp3
+bgload nayqy.jpg
+bgload special/whiteout.jpg
+text His temper is like a burning fire.
+text Lancer closes in with each blow, with no thought of stopping.
+sound ~
+text With a long weapon, it's suicidal to close in to an enemy.
+text The spearman's tactic is to use their long range to defeat the enemy and win the battle.
+text So, as Lancer is just advancing unchecked, he doesn't have a chance of winning.
+sound ymuqi.mp3
+text "--------No way."
+text But that's just by the book.
+text Lancer's lance shows no vulnerabilities as it strikes for the throat, shoulders, forehead, and heart.
+sound ~
+text Thrusts so fast even the afterimages are blurred.
+text As each strike of his lance repels, rebuffs, and pushes back Archer, any one of his thrusts could be called a final blow.
+text But even as a bowman, Archer is a Servant.
+text No ordinary attack can be a final blow...!
+delay 0
+sound se103.mp3
+bgload mptta.jpg
+delay 57
+sound se101.mp3
+bgload nvnvn.jpg
+delay 28
+sound se100.mp3
+delay 60
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se104.mp3
+bgload dshst.jpg
+bgload special/whiteout.jpg
+delay 60
+sound se111.mp3
+sound prg03_arc_03.mp3
+text "Ha--------!"
+text Having repelled the lance aimed at his forehead, Archer closes in with speed superior to Lancer's lance.
+sound ~
+bgload ymhgl.jpg
+text ------Based on its shape, you might think that the main attack of a lance is a thrust, but the basic strength of a lance is in swings.
+text This is because a wide swing using its long range does not allow the enemy to dodge it by stepping back.
+text A partial retreat does not allow escape, and an attempt to counterattack will only result in a slashed stomach.
+text But simply going forward will end up in a smashed rib from the long shaft of the lance.
+text Archer and Lancer are similarly built.
+text On top of that, it's hard for Archer with no heavy armor to step into range of a lance swung like a whirlwind.
+text ------But, thrusts are a different story.
+text A blazing fast thrust certain to strike you is certainly scary.
+text But as long as the attack targets a point, there are many ways to avoid it once you see it.
+text As Archer did just then, hitting the shaft of the approaching lance to redirect it slightly creates an opening.
+text It must be because he underestimated a bowman.
+text The advantage of a long weapon is in the length and freedom of its range. Once Lancer has discarded these advantages himself, his defeat is--------
+delay 0
+sound se094.mp3
+text "--------"
+delay 47
+sound se103.mp3
+bgload mptta.jpg
+bgload ymhgl.jpg
+delay 57
+sound se093.mp3
+delay 47
+sound se104.mp3
+bgload fyfqr.jpg
+delay 60
+sound se100.mp3
+bgload special/whiteout.jpg
+delay 60
+sound se099.mp3
+sound ycqcg.mp3
+text "Huh--------!?"
+text The one in red stops.
+text ------A nightmare like time is reversing.
+text The thrust is faster than the previous ones...!
+sound ~
+delay 0
+sound se102.mp3
+bgload mptta.jpg
+delay 44
+sound se103.mp3
+delay 57
+sound se102.mp3
+delay 44
+sound se103.mp3
+bgload special/whiteout.jpg
+sound bbhiw.mp3
+text "Guh------!"
+text Archer tries to parry the blow, but he gets flicked away along with his weapon.
+text There are no openings in Lancer's attack.
+text No, not just that. The thrusts increase in speed and power without limit and it becomes a final blow even for a Servant...!
+sound ~
+sound bgrss.mp3
+text "--------"
+text We were the ones that underestimated him.
+text For that Servant------for Lancer's weapon, there are no general rules about lances.
+sound ~
+text Who could ever parry continuous attacks without even space to breathe between them?
+text Archer manages to retreat a bit and parries. And as a result, the distance between them opens a little.
+text That distance.
+text Lancer uses that distance as a runway to launch an even more powerful attack.
+delay 0
+sound se102.mp3
+bgload mptta.jpg
+delay 44
+sound se102.mp3
+delay 44
+sound se102.mp3
+delay 44
+sound se102.mp3
+bgload special/whiteout.jpg
+text The raging continuous attack is only a repetition of that.
+text But the blows themselves are godlike.
+text Ten blows already.
+text No, it must actually be many times more than that.
+text The heavy rain of lance pours with yet more strength, trying to skewer Archer to death.
+sound ~
+text ...It's not fast, but it's just skill.
+text It thrusts like a waterfall, with no change in speed.
+text What can Archer do as he's now on the defensive?
+text With such a short sword, he can only parry the lance.
+text He has no way to close on Lancer, and he continues to retreat.
+text "--------------"
+text A vacuum of steel unfolds.
+text Support... I have to back Archer up, but my throat won't respond.
+text My magic has poor aim.
+text Unless Archer gets far away from Lancer, I will hit him with my magic as well.
+text Such an opening would only increase Lancer's advantage.
+text ...And besides.
+text Frankly, I'm captivated.
+text This is a battle between Servants.
+text This is the Holy Grail War itself, where we use heroic spirits------
+text The highest rank of familiar, whom we would never otherwise obtain.
+bgload ymhgl.jpg
+text Servants.
+text Familiars of different classes that obey the seven Masters.
+text These are the highest-ranked familiars, called heroic spirits, that the Holy Grail summons.
+text ------So, it's misleading to call them familiars.
+text Originally, familiars were just beings that ran errands for the magus.
+text Imagine, perhaps, a cat in boots.
+text Or a cute white bird.
+text Or a black dog that doesn't obey its master, or something like that.
+text Familiars that a mere magus can summon are of that level.
+text Familiars are just familiars.
+text They are only mascots that run errands for their masters, so they cannot be beings stronger than their masters.
+text But Servants are different.
+text They are the most powerful beings.
+text Even for sorcerers, of which there are only five in this world, it would probably be impossible to form a contract with them.
+text It's not that the summoning is hard or even that the ability of the Servant surpasses that of the magus.
+text Servants themselves are beings above magic.
+text I'll make it clear.
+text Servants are heroes from the past.
+text Myth, legend, fable, history...
+text Fiction or not, the "superhuman beings" who gained concrete existence in folklore are what we call heroes.
+text A hero that becomes eternal in people's minds is no longer human after their death, and is promoted to another form of existence.
+text Humans who bring about miracles, save people, and achieve great deeds, are called heroes even after their death.
+text After being so called, they are promoted to heroic spirits after their death and become guardians of humanity.
+bgload special/blackout.jpg
+text It doesn't matter whether these people existed in reality or only in stories.
+text It is people's minds that create a hero.
+text People's wishes that "this is how things should be" give them form and set them up as real.
+text Authenticity does not matter.
+text They can have form as long as they have fame as a legend and people have faith.
+text The ultimate ideal humans have created, the greatest human people have created.
+text These are the heroes, the heroic spirits.
+text And of course, since they are beyond human, they cannot be controlled by humans.
+text A magus usually borrows their power only to mimic them.
+text They can't summon the heroic spirits themselves.
+text But the Holy Grail made that impossibility into reality.
+text It summons the heroic spirit, beyond human control, and turns it into a familiar obedient to the Master.
+text That nonsense is proof that the Holy Grail is almighty.
+text And with the passing of years ignored, the heroic spirits are summoned. The most recent from a hundred years ago, the oldest from the ancient days.
+text The seven heroic spirits obey each of the seven Masters, protect them, and eliminate the Masters of the enemy.
+text Heroes from every age and country are revived into the present day, to kill one another for supremacy.
+text That is why this ritual is called the Holy Grail War.
+delay 0
+sound se087.mp3
+bgload bttod.jpg
+delay 60
+sound se088.mp3
+bgload mnnho.jpg
+delay 60
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se104.mp3
+bgload zhtsa.jpg
+delay 60
+sound se100.mp3
+delay 60
+sound se099.mp3
+bgload special/whiteout.jpg
+text ...But it seems the Holy Grail has its limits too.
+text Even the Holy Grail cannot indiscriminately call unto the spirit-like beings.
+text Just as a form invented by humans is required for the imaginary sixth element, known as the devil, to take form, the heroic spirits also need a form to live in this world.
+sound ~
+text That form is their temporary name, and the way the exist in this world.
+text The Holy Grail has furnished "classes" so that the heroic spirits may take form more easily, and it only summons the heroic spirits that match these classes.
+text It's like a passport to the present as it sets up a role as a familiar in advance. By allowing the summoned heroic spirit to take on that role, it helps the spirit to take form.
+text If there are seven Masters chosen by the Holy Grail, there are also seven Servants obeying those Masters.
+text There are seven furnished classes.
+text Knight of the sword, Saber.
+text Knight of the lance, Lancer.
+text Knight of the bow, Archer.
+text Mounted soldier, Rider.
+text Magus, Caster.
+text Silent killer, Assassin.
+text Mad warrior, Berserker.
+text Only the heroic spirits with attributes of these classes are summoned to the present to obey the Master------and become a Servant.
+text That is the Servant System------
+text A summoning and contract with a heroic spirit beyond human control, to win the "miracle" beyond human grasp.
+text The ultimate competition, held only on this ground, the one and the only Holy Grail War--------!
+delay 0
+sound se103.mp3
+bgload mptta.jpg
+delay 57
+sound se104.mp3
+bgload dshst.jpg
+delay 60
+sound se099.mp3
+bgload special/whiteout.jpg
+delay 27
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se103.mp3
+bgload fyfqr.jpg
+delay 57
+sound se099.mp3
+bgload special/whiteout.jpg
+delay 27
+sound se094.mp3
+bgload oxglk.jpg
+delay 47
+sound se093.mp3
+bgload zhuwe.jpg
+bgload special/whiteout.jpg
+delay 47
+sound se104.mp3
+bgload qfjte.jpg
+delay 60
+sound se126.mp3
+bgload nayqy.jpg
+bgload special/whiteout.jpg
+sound agoms.mp3
+text "--------!"
+text A loud crash.
+text The shortsword that deflected Lancer's lance flies from Archer's hand.
+text This is Lancer's technique.
+text A straight thrust that turns into a sweep at Archer's wrist.
+text It was a blow Archer could not avoid even had he seen it coming.
+sound ~
+bgload special/blackout.jpg
+text There is no effective way of parrying a lance with a sword.
+text A strong rebuff only results in a stronger counterattack, and a weak rebuff does not create any openings.
+text The important aspect of the battle between a sword and a lance lies in defeating the enemy when he is at the wrong range--------
+delay 0
+sound se089.mp3
+bgload ammfc.jpg
+sound rnqby.mp3
+text "------Idiot."
+text There's no hesitation in Lancer.
+text His movement to push Archer back stops.
+text ------He must intend to end the match in a single instant.
+text The stares of the firmly placed Lancer and the swordless Archer clash.
+sound ~
+delay 0
+sound se093.mp3
+bgload bttod.jpg
+delay 47
+sound se084.mp3
+delay 60
+sound se094.mp3
+bgload mnnho.jpg
+delay 47
+sound se085.mp3
+bgload special/whiteout.jpg
+text In that instant.
+text The lance is thrust just like a flash of light.
+text It can't even be seen.
+text Forehead, neck, and heart.
+text Three shots are launched, any one a fatal blow--------!!
+sound ~
+delay 0
+sound se103.mp3
+bgload mptta.jpg
+delay 57
+sound se103.mp3
+delay 57
+sound se103.mp3
+text But.
+bgload special/whiteout.jpg
+delay 57
+sound se099.mp3
+delay 27
+sound se100.mp3
+bgload jszbt.jpg
+delay 60
+sound se099.mp3
+delay 27
+sound se109.mp3
+delay 60
+sound se112.mp3
+text The flash too fast to see is repelled by a shining blade...!
+sound ~
+sound gjjdf.mp3
+text "--------!?"
+text In Archer's hand is the shortsword again.
+text A sword like before, a Chinese sword like a hatchet.
+text But the biggest difference is------
+delay 60
+sound se092.mp3
+bgload sekqc.jpg
+sound npxog.mp3
+text "Crap, two swords...!"
+text A pair of swords.
+text In his hands are matched swords, mirror images of each other.
+sound ~
+bgload bttod.jpg
+sound abjmv.mp3
+text "Heh, a bowman trying to be a swordsman------!"
+delay 46
+sound se104.mp3
+bgload mptta.jpg
+delay 60
+sound se100.mp3
+bgload special/whiteout.jpg
+sound ~
+sound se239.mp3 1
+text Lancer's lance flies.
+bgload a02.jpg
+text As if to finish Archer off, the lance moves faster and faster.
+text "--------------"
+sound ~
+delay 0
+sound se100.mp3
+delay 60
+sound se111.mp3
+delay 58
+sound se083.mp3
+delay 60
+sound se087.mp3
+text Archer defends with a burning spirit.
+text His hawk-like eyes say that he will not retreat anymore------no, that he will only advance from now on.
+sound ~
+text The clashing sounds are like a well orchestrated music.
+delay 0
+sound se111.mp3
+text Two steels clanging against each other.
+text The sparking clashes increase in rhythm without pause.
+sound ~
+text The battle of the two is like a vacuum.
+text It sucks in the air around them, and it seems like anything approaching them would be cut to pieces.
+text "----------------"
+text In reality, it only lasts an instant.
+text But for me looking on, it seems to take an infinitely long time.
+delay 0
+sound se083.mp3
+delay 60
+sound se083.mp3
+text Lancer tries not to let Archer near him, while Archer advances using his swords as a shield.
+text Over a hundred blows have been thrown, and Archer loses a sword every time.
+sound ~
+text But it's only for a moment as Archer has a sword in his hand in the next instant, forcing Lancer back a little each time.
+text Lancer finally admits his carelessness.
+text That even though he doesn't know who is before him, he will be the loser if he dismisses him as a mere bowman.
+sound ~
+music ~
+delay 0
+sound se100.mp3
+bgload special/whiteout.jpg
+delay 60
+sound se101.mp3
+bgload mptta.jpg
+delay 28
+sound se099.mp3
+bgload special/whiteout.jpg
+delay 27
+sound se104.mp3
+bgload fyfqr.jpg
+delay 60
+sound se111.mp3
+bgload poynp.jpg
+delay 58
+sound se099.mp3
+delay 27
+sound se109.mp3
+bgload special/whiteout.jpg
+delay 60
+sound se093.mp3
+delay 47
+sound se094.mp3
+music ~
+text The distance widens.
+text Probably to recover, Lancer puts a large distance between them.
+text ...His speed is extraordinary.
+text Archer's charge was out of this world, but it was still slow compared to Lancer.
+text The movement of his retreat had panther-like speed and agility.
+sound ~
+music bgm29.mp3
+bgload ymhgl.jpg
+bgload ymhgl.jpg
+setimg hdhbt.png 82 0
+sound prg03_ran_02.mp3
+text "...Twenty-seven. I've disarmed you that many times, yet you still have more."
+text Lancer mutters in irritation.
+text No, it's more like confusion.
+sound ~
+bgload ymhgl.jpg
+text ...I feel the same way.
+text According to Father, a Servant carries only one weapon.
+text Their weapon is filled with magical energy, so it's not something that can be created one after another, like Archer was just doing.
+text Servants are heroes that sublimate their spirits after death, equaling the holy spirits.
+text To put it another way, they are like devils or angels.
+text They are powerful familiars on their own, but their most powerful weapon is their "proof of heroism", a magical item called their "Noble Phantasm".
+text A Noble Phantasm is a weapon or armor the Servant used when they were a hero, and it's treated as a last resort.
+text The Noble Phantasm is the one and only weapon for a Servant.
+text This is because the Noble Phantasm is an ultimate weapon without equal.
+text ...The lance that Lancer is using will show its power as a Noble Phantasm when Lancer deems it necessary.
+text A Noble Phantasm is an impressive weapon by itself, but its true ability is to release all its power using its "true name".
+text Heroes' weapons which rule over all others, and which have killed dragons and gods.
+text Servants activate their Noble Phantasms using their magical energy.
+text It's much like magic.
+text Servants recreate the destructions in legend using their weapon as a catalyst.
+text Those weapons are never disposable.
+text The swords that Archer brought out must be excellent, but they cannot be his Noble Phantasm.
+text He is the Servant Archer.
+text So the Noble Phantasm he conceals must be a bow.
+bgload ymhgl.jpg
+setimg zjuil.png 25 6
+sound wervw.mp3
+text "What's wrong, Lancer? It's not like you to just stand there and watch. Where's the energy you had just now?"
+bgload ymhgl.jpg
+setimg jbqkj.png 25 6
+setimg dkpnm.png 163 8
+sound mdsqh.mp3
+text "...You're talking crap, you cheater."
+sound ~
+text Lancer's irritation is understandable.
+text Even though Lancer fought as a spearman, Archer fended him off as a swordsman.
+text Which means, Archer hasn't shown any of his abilities yet.
+text So it's natural for Lancer to feel ghastly.
+bgload ymhgl.jpg
+setimg jbqkj.png 25 6
+setimg nhdfy.png 163 8
+sound yzuub.mp3
+text "...All right then, I'll ask you. What hero are you?
+sound vtslz.mp3
+text I've never heard of a bowman using two swords."
+bgload ymhgl.jpg
+setimg kooqe.png 7 8
+setimg nhdfy.png 163 8
+sound mgtmc.mp3
+text "On the other hand, it's easy to tell who you are. It's said that only the fastest heroes are chosen as the lancer, but you surpass even that.
+sound jvraz.mp3
+text There aren't three lancers in this world at your level. And on top of that, there's only one with such beast-like agility."
+sound ~
+bgload ymhgl.jpg
+setimg hhefp.png 86 0
+sound lizis.mp3
+text "------Oh. Well said, Archer."
+text At that instant.
+text His vast murderous intent makes me forget to breathe.
+sound ~
+music ~
+sound ~
+sound se273.mp3 1
+bgload nrknq.jpg
+text Lancer's arm moves.
+text This is different from before. A stance free from contempt.
+text The spearhead is lowered as if to strike the ground, and only his stare pierces Archer------
+sound zrjqm.mp3
+text "------In that case, you shall face my finishing blow."
+bgload sekqc.jpg
+sound ygkxt.mp3
+text "I won't stop you. You're an enemy I will have to defeat sooner or later."
+sound ~
+bgload ymhgl.jpg
+text Lancer's body sinks down.
+text At the same time.
+text A chill like thorns fills the schoolyard.
+sound ~
+sound se028.mp3 1
+text ...The air freezes.
+text Not a metaphor, it literally freezes.
+text All the mana in the air is frozen.
+text The only person allowed to breathe here is the warrior called Lancer.
+text The lance in Lancer's hands is unmistakably a demonic one.
+text And now, it is waiting to take its true form in the moment it strikes------
+text "--------Crap."
+text He'll be beaten.
+text I don't know what kind of Noble Phantasm that is, but Archer will be beaten.
+text It's implausible since this is the first time I've felt such an intuition, but there's no doubt about it.
+text Archer will die when that lance is thrust.
+text It is determined.
+text Literally, Lancer's lance is the embodiment of inescapable death--------
+sound prg03_rin_06.mp3
+text "------Oh."
+text Archer will be defeated.
+text Archer will die when Lancer pierces his heart.
+sound ~
+text ------And yet.
+text Even though I know what's going to happen, I can't even help him.
+text Because if I move even a finger, that will trigger the attack.
+text ...So, if anything can stop this battle and stop Archer's defeat, it would be------
+sound ~
+sound ~
+sound hxocf.mp3
+text "------------Who's there...!!?"
+delay 47
+sound se270.mp3
+text It would be the chance appearance of a stranger we have all overlooked.
+sound ~
+bgload special/blackout.jpg
+bgload ymhgl.jpg
+sound stefa.mp3
+text "...Huh?"
+text The ghastly air coming from Lancer disappears.
+text The sound of fleeing footsteps.
+text ...That figure is definitely wearing a school uniform.
+sound ~
+sound lomck.mp3
+text "A student...!? Someone was still here!?"
+sound wygbi.mp3
+text "It seems so. He did save our lives, though."
+bgload ymhgl.jpg
+setimg qolwx.png 122 0
+text Archer says calmly.
+text Well we were certainly saved, but....
+sound ~
+sound tmvgy.mp3
+text "...My mistake. I didn't notice my surroundings because I was preoccupied with Lancer... Hey, Archer, what are you doing?"
+bgload ymhgl.jpg
+setimg ypmau.png 99 0
+sound lkaxc.mp3
+text "Can't you see? I'm resting since I'm free now."
+sound uxfue.mp3
+text "You can't do that. What about Lancer?"
+bgload ymhgl.jpg
+setimg cmfgt.png 122 0
+sound prg03_arc_04.mp3
+text "He went after that guy. He saw us, so Lancer probably went to eliminate him."
+text "----------------"
+text For an instant.
+text My thoughts stop.
+sound ~
+music bgm29.mp3
+sound fipcs.mp3
+text "...Follow him, Archer! I'll catch up right away...!"
+bgload ymhgl.jpg
+setimg cmfgt.png 122 0
+text "--------"
+delay 60
+sound se094.mp3
+bgload ymhgl.jpg
+text Archer goes after Lancer immediately.
+sound ~
+bgload ymhgl.jpg
+sound tayho.mp3
+text "...Damn, how stupid of me...!"
+text I curse my carelessness.
+text It's the rule of magi to eliminate any witnesses.
+text ...Which is why, if one didn't want to do that, one just had to allow no witnesses. I've done that until now, so why do I have to make a mistake today of all days...!?
+sound ~
+music ~
+bgload fteub.jpg
+music bgm43.mp3
+text A night where even the moonlight is obscured.
+text A student is lying on the cold hallway floor and Archer is standing still.
+bgload fteub.jpg
+setimg jwrqi.png 23 8
+text "......"
+text He is staring blankly at the student.
+text ...A smell hits my nose.
+text The blood on the floor makes clear that it's the smell of death.
+sound jmwgg.mp3
+text "...Follow him, Archer. Lancer will probably go back to his Master. This won't be worth it unless we at least find out what his Master looks like."
+bgload fteub.jpg
+setimg orpxf.png 23 8
+text "--------"
+delay 47
+sound se090.mp3
+bgload fteub.jpg
+text Archer goes after Lancer.
+text I'm left alone with the student lying on the floor.
+sound ~
+text "......"
+bgload wqgvo.jpg
+text I can't look straight at him.
+text But I must.
+text This is my fault.
+text This is my fault.
+text This is my fault.
+text ------Ever since I was a child.
+text Ever since I became the successor of Tohsaka, I've been preparing for something like this.
+text There's no good or evil for magi.
+text I've always told myself that this road has only my blood and the blood of others, so...!
+bgload fteub.jpg
+sound iinar.mp3
+text "...One shot from Lancer's lance, huh? You can't be saved with your heart pierced."
+text I don't know how long it's been since Lancer killed him.
+text Was he lucky or unlucky to be pierced through the heart?
+text I guess Lancer's attack isn't a simple external wound as the flow of blood from the rupture isn't too severe.
+sound ~
+text It's not too severe, but it's all over when the brain doesn't get any more blood.
+text No, basically, if his heart were pierced, he should have died instantly.
+sound ythxo.mp3
+text "...But it's amazing he isn't dead yet."
+text ...Yes.
+text He's still breathing faintly as if to give his last scream.
+text But that will only last a few more seconds.
+text He can't heal his own wounds, and I don't have enough power to save him either.
+sound ~
+sound prg03_rin_07.mp3
+text "I have to look at his face. I should at least do that."
+text I try to touch the head, facing the ground, and realize my fingertips won't move.
+text ...They're trembling.
+text I wonder why.
+text I'm used to such things.
+text I've had to make these kinds of choices many times before.
+sound ~
+text I've lost many things due to my mistakes and my selfishness.
+text That's why... I'm ready for a day like this.
+text So why... why am I so angry at myself?
+sound tflxh.mp3
+text "...Sorry. I'll see you off, at least."
+text I control my trembling fingers and my failing knees with my will, and look at the face of the student.
+bgload red.jpg
+music ~
+sound dcefj.mp3
+text "----------------"
+text A huge smacking sound.
+bgload fteub.jpg
+text It really feels like I've been hit on the head with a hammer.
+sound ~
+sound cpyxm.mp3
+text "...Stop it. Why does it have to be you?"
+text I grit my teeth.
+text Not to suppress my trembling.
+text I'm really pissed off.
+text Why is it him?
+text Why did it have to be him?
+text I'm not mad at Lancer for killing a witness quickly and perfectly, just as a Servant should do.
+text I'm just angry at him for staying late at this place, on this day...!
+sound ~
+music bgm16.mp3
+text "----------------"
+text Sakura's face flashes in my mind.
+text She will definitely cry.
+text And I recall one red-tinted day after school, a long time ago.
+text ...A distant sunset.
+text Someone always running alone.
+text And a boring girl, staring at that from far away.
+text ------And before me, the corpse of someone who happened to get involved.
+text "----------------"
+text ...There is a way.
+text I might fail and lose my last resort in the process, but there is still a way.
+text No, I'll lose my last resort whether I succeed or fail, so the result for me won't change.
+text "----------------"
+text It's a mistake.
+text The fact of his death is already determined.
+text It's my fault for not noticing the things around me.
+text It's his fault for unluckily staying late.
+bgload special/blackout.jpg
+text So I don't need to go that far.
+text Yes, because this is what my father, who gave me nothing else, left just for me.
+text A powerful chunk of magical energy, a reliable last resort to win through this battle.
+text A precious, precious thing just for me------
+bgload fteub.jpg
+sound rbrvg.mp3
+text "------So what, idiot?"
+text I shake the feeling off and kneel in front of the one who will become a corpse in another second.
+sound ~
+music ~
+bgload special/blackout.jpg
+delay 48
+bgload fteub.jpg
+bgload fteub.jpg
+sound sqmvr.mp3
+text "...Man, I've done it."
+text The pendant in my hand becomes lighter.
+text My father's memento is drained almost to emptiness,
+delay 23
+sound se370.mp3
+text and falls onto what used to be a dying body.
+sound ~
+sound jqmkv.mp3
+text "--------Well, it can't be helped."
+text Yes, it can't be helped.
+text I didn't have the power or skills to revive someone with a damaged heart, damaged blood vessels, and on the verge of brain death on top of that.
+text That's why I had to make up for my lack of skill with this powerful object.
+sound ~
+sound awkvw.mp3
+text "It's lucky he was still breathing. If he was completely dead, no amount of magical energy could have revived him."
+text But since he was still alive...
+text I just did what I could, and ended up saving his life.
+sound ~
+sound ivpfv.mp3
+text "...It would have been awful if I failed, but since I succeeded, I guess it's all right. Yeah, I feel fulfilled to be honest, so this wasn't such a bad experience."
+text I'm just bluffing.
+sound ~
+sound xzstd.mp3
+text "...Let's go. What's done is done. I have to head back before he wakes up."
+text Yeah, there's no need for me to stay here any longer.
+text Archer should be following Lancer, so I should go home by myself.
+sound ~
+bgload rrtjx.jpg
+text --------On my way back, I remember.
+text I left the pendant at school, just a pendant now that the magical energy has been drained out of it.
+sound prg03_rin_08.mp3
+text "Oh well."
+text I've no more use for that pendant.
+text Sure, it might have a bit of magical energy left in it, but surely less than the ten jewels I have.
+text What my father intended to leave for me was enough magical energy to win the Holy Grail War.
+text So now, without magical energy, that thing is meaningless.
+sound ~
+bgload rnyft.jpg
+delay 0
+sound se216.mp3
+sound ~
+sound se253.mp3 1
+text I enter the house without saying anything and sit on the sofa.
+text Archer isn't back yet.
+text I sigh and listen to the clock for a few minutes.
+sound ~
+sound bwhtv.mp3
+text "------Huh, I have to switch gears.
+sound sgipx.mp3
+text What am I doing, daydreaming after a battle like that?"
+sound ~
+text I jump up and brew some tea.
+text There are so many things to think about.
+text Most importantly, the Servants.
+text I have just witnessed a battle between Servants I had previously only understood intellectually.
+sound bjrjw.mp3
+text "Lancer, huh...? I panicked when he almost used his Noble Phantasm, but I would have found out his identity if he had used it..."
+sound ~
+text The easiest way to beat an enemy Servant is to learn their identity.
+text Ignoring for the moment the idiot who doesn't even know his own identity, the biggest weak point of a Servant is their "true name".
+text Discovering the Servant's true name... in other words, figuring out their identity... should let you take a guess at what kind of Noble Phantasm they might have.
+text It goes without saying, but since Servants are heroic spirits, they have a legend associated with them.
+text If you figure out their legend, you should be able to find out most of their abilities.
+text Servants are called by their class names because they want to hide their true names.
+text Because the more famous a hero is, the more people know about their weapons and their weaknesses.
+text A heroic spirit that becomes a Servant never gives out their true identity.
+text The only ones that know the Servants' identities are the Masters.
+text There's even a tacit understanding that the Masters hide their Servants' identities while trying to discover the identities of the others.
+text ...This is the fifth Holy Grail War.
+text The qualities of the Servants are determined by the ranks of the summoned heroic spirits.
+text It goes without saying that the more famous heroes and the heroes with better weapons are stronger.
+text But it's difficult to summon such heroic spirits.
+text To summon a heroic spirit, one must have a connection with them such as a weapon they used during their lives.
+text Even the Magic Association has a few of such things.
+text So generally, one will summon a heroic spirit that suits them, like I did.
+text A Servant's strength is determined by the rank of the heroic spirit.
+text But it's not that simple as even the most powerful heroic spirits may have a hard time depending on the class they are assigned to.
+text That is because of the special abilities assigned to each class, the possibility of the weak defeating the strong.
+text The seven classes each have a different additional ability, and one even has a chance of defeating an opponent of higher rank depending on the ability's affinity.
+text To take an example, an infamous hero has defeated a great hero four times in the past.
+text As far as I know, the most powerful Servant is Saber.
+bgload asatn.jpg
+text In all the previous four wars, Saber has made it to the final fight.
+text It is said that the three classes Saber, Lancer and Archer have strong magic resistance.
+text To put it simply, magic is pretty much useless against them.
+text It's because they are fighters who fought through the age of myths, when magics were used widely.
+text Magics that magi use now would probably dissipate just by touching them.
+text ...Anyways, that's why these three classes are considered the basics and the best.
+text Another that's worthy of mention is the Servant Berserker.
+text The heroic spirit summoned into this class loses their sanity.
+text Just as the name implies, they become a mad warrior puppet of their Master. The benefit from this is a "strengthening" of their power, far exceeding the powers they had when alive.
+text However, the more powerful a Servant becomes, the greater the burden it imposes on the Master.
+text In the past, Masters who summoned Berserker couldn't control their rampaging Servants, and destroyed themselves by running out of magical energy.
+text No exceptions.
+bgload rnyft.jpg
+text ------The winners and losers of the Holy Grail War are largely determined by the abilities of the Servants.
+text Well, I expect there are ways to win it by the Master's efforts, but it is basically a fight between the Servants.
+text That is why a Master should be very careful when summoning a Servant....
+sound ~
+bgload black.jpg
+bgload rnyft.jpg
+music bgm05.mp3
+text "----------------"
+text I silently consider the plans we should make from now on.
+text The clock, fixed already, strikes eleven while I do so... and Archer comes home.
+sound oudhj.mp3
+text "Welcome back. How did it go?"
+bgload rnyft.jpg
+setimg qsfiz.png 70 0
+sound xtfbn.mp3
+text "...I'm sorry. I failed. It must be one cautious Master. At the very least, Lancer's Master is not on this side of town."
+sound ~
+text As I expected.
+text Lancer was alone and it seems his Master isn't the type to show up for battles personally.
+sound jjtxz.mp3
+text "I see. Well, I guess it won't be that easy."
+text Yes, there's no way everything will go as I might hope.
+text So it can't be helped.
+text Let's consider what happened tonight as a tuition fee for the lessons learned.
+sound ~
+bgload rnyft.jpg
+setimg esode.png 70 0
+sound mlcmf.mp3
+text "You seem down, Master. Where are your high spirits? Don't tell me you got scared by that one fight. If you so order, I am ready to go battle Lancer again right now."
+sound ~
+text Archer protests silently that we should do so.
+text ...I see.
+text I guess I look depressed.
+sound brkfa.mp3
+text "Of course not. I'm staying in only because I don't want to do anything pointless."
+bgload rnyft.jpg
+setimg ypmau.png 47 0
+sound bwssz.mp3
+text "Hm? Anything pointless...?"
+sound ayiaw.mp3
+text "Well, all the Masters aren't present yet, right? Tonight couldn't be helped, but I wouldn't start fighting before we get the signal. My father told me this is one of the rules of the Holy Grail War."
+sound ~
+sound rimpv.mp3
+text "...I see, so your father was also a Master."
+text Archer nods, understanding.
+text ------Then.
+bgload rnyft.jpg
+setimg kfrqu.png 70 0
+text Archer makes a troubled face and starts to ponder something.
+sound ~
+sound xdfen.mp3
+text "What? Do you have something you want to say?"
+bgload rnyft.jpg
+setimg cmfgt.png 70 0
+sound goass.mp3
+text "Yeah, there's something I forgot to ask.
+sound mormz.mp3
+text Rin, you've been raised since you were small to be a Master and you've accepted that, right? So you've expected to be a Master since the beginning."
+sound ~
+sound oyjfq.mp3
+text "Of course. Well, there certainly are Masters that are suddenly appointed, but I'm different. For the Tohsaka family, the Holy Grail has been our earnest desire for many generations."
+sound ~
+sound dauia.mp3
+text "I thought so. So having been raised to become a Master, you must have a purpose.
+sound gntyl.mp3
+text I forgot to ask about that. I cannot swear my sword to you unless I know my Master's wish.
+sound vcruv.mp3
+text ------So Rin, what is your wish?"
+sound prg03_rin_09.mp3
+text "Wish? I don't really have one."
+bgload rnyft.jpg
+setimg ltwdz.png 62 0
+sound prg03_arc_05.mp3
+text "------What?"
+text Oh, Archer's making a funny face.
+sound ~
+sound rvjts.mp3
+text "T-That can't be true! The Holy Grail is an almighty grail that grants wishes. Becoming a Master means obtaining the Holy Grail, so how can you say you have no wish to grant...!?"
+text "----------"
+text Archer is asking with a serious expression.
+sound ~
+bgload rnyft.jpg
+setimg qolwx.png 70 0
+text ...Oh, I see.
+text The Master's wish after obtaining the Holy Grail isn't irrelevant to the Servant.
+text But it's strange. Father said that Servants have wishes as well, but that is only their wish.
+text I don't think Archer should be concerned because I don't have any wishes.
+bgload rnyft.jpg
+setimg jigoi.png 73 0
+sound fgurh.mp3
+text "All right, if you don't have a specific wish, why not wish for something ambiguous? Like ruling the world?"
+sound pjrca.mp3
+text "Why? The world is already mine."
+sound ~
+bgload rnyft.jpg
+setimg ltwdz.png 62 0
+text "----------------"
+sound ykfbf.mp3
+text "Hey now, Archer. The world is just another word for the things you value around you, right? That's something I've had since I was born. If you tell me to rule such a world, I already rule it."
+sound ~
+bgload rnyft.jpg
+setimg nlxco.png 62 0
+text "--------"
+text Archer looks at me with a troubled expression.
+text I'm amazed. The guy really is hard-headed.
+bgload rnyft.jpg
+setimg esode.png 70 0
+sound odobh.mp3
+text "Ridiculous. The Holy Grail is a power to grant wishes, a power to obtain the world. Are you saying you're seeking it, yet you have no wish?"
+sound xhxrl.mp3
+text "But ruling the world would be so troublesome and there's no point in wishing for something so pointless. You seem to lack imagination."
+sound gpvyg.mp3
+text "...I don't understand. For what then, do you fight?"
+sound ~
+sound ocbrl.mp3
+text "I fight because there's a battle, Archer. And I'll take whatever I can get. I don't know about this Holy Grail thing, but I can just use it when I find something I want, right? As a human, there are infinite things I might want in life."
+bgload rnyft.jpg
+setimg ypmau.png 47 0
+sound skziu.mp3
+text "------So, you're saying..."
+sound ljpnc.mp3
+text "Yes. I'm fighting to win, Archer."
+sound ~
+bgload rnyft.jpg
+setimg famqs.png 73 0
+sound yjlsn.mp3
+text "----------------"
+text Archer's shoulders slump.
+text Maybe he's disappointed in my opinions, but it seems he's finally relaxed.
+sound ~
+sound egdfd.mp3
+text "...I give up. You're certainly a worthy Master for me."
+text ------Ugh.
+text ...I find it hard to deal with that kind of comment, so I wish he'd stop saying such things....
+sound ~
+sound umehc.mp3
+text "...Huh. A Servant has no right to choose their Master, but I'll ask for the heck of it. Why am I a worthy Master for you?"
+bgload rnyft.jpg
+setimg lrdru.png 73 0
+sound obhck.mp3
+text "It goes without saying. You're unmistakably the strongest Master.
+sound pwvzs.mp3
+text No one would be a better Master to serve than you."
+sound eezbt.mp3
+text "Oh, thanks. It doesn't sound like flattery when you say it."
+bgload rnyft.jpg
+text ...I look away because I'm embarrassed.
+sound ~
+text I find it hard to deal with Archer because he speaks frankly like this even though he's so cynical.
+text ...But, well, I'm honestly happy that he trusts me.
+text I trust Archer and he trusts me.
+text I don't think this sense of solidarity is a bad thing.
+bgload rnyft.jpg
+setimg cmfgt.png 70 0
+sound prg03_arc_06.mp3
+text "Well then, let's take a break. Even if the seventh Master is going to appear, it won't be right now------wait a minute, Rin. What happened to that jewelry of yours?"
+sound tpsyq.mp3
+text "You mean my pendant? Oh, I forgot it. It's out of power, so there's no use for it, right?"
+sound ~
+sound gzjbm.mp3
+text "That's true, but... well, if you say so."
+sound dxfjs.mp3
+text "Yes, it's a memento of my father, but it's not like it's my only memory of him--------"
+bgload rnyft.jpg
+setimg nlxco.png 62 0
+sound bfvkq.mp3
+text "------That's no good. You don't have to be that strong, Rin."
+text So saying,
+text Archer takes out the pendant I left at school.
+sound ~
+bgload rnyft.jpg
+sound prg03_rin_10.mp3
+text "Oh... you went and picked it up for me."
+bgload rnyft.jpg
+setimg dyhbz.png 47 0
+sound wbkbi.mp3
+text "...Don't forget it again. It only looks right on you, Rin."
+text As if he's embarrassed, Archer looks away as he hands me the pendant.
+sound ~
+sound prcuo.mp3
+text "------I see. Thanks."
+text I accept it.
+text To be honest, I don't know if I should be embarrassed or cool about it.
+sound ~
+bgload rnyft.jpg
+text The pendant is as it was.
+text ...As expected, there's no magical energy left in it.
+text Empty of magical energy, it's just an expensive but ordinary jewel, and it doesn't hold any power.
+bgload rnyft.jpg
+setimg cmfgt.png 70 0
+text But, as Archer would put it.
+text Even if there's no power left in this pendant, it still has meaning as something my father specifically left for me.
+text Then... maybe I can just laugh off the fact that I helped that guy by sacrificing my trump card.
+music ~
+sound xibrp.mp3
+text "------Hey, wait a sec."
+music bgm09.mp3
+text Something clicks in my head.
+text I wasn't thinking straight back then because of my regret, but thinking about it calmly, I missed something.
+sound ~
+text He saw us, so it'll be dangerous unless we adjust his memory.
+text Basically, Lancer prioritized eliminating the witness over his battle with us.
+text Lancer's thinking probably matches his Master's.
+text So... if such a Master finds out the guy they killed didn't die, what would he do?
+sound eoeej.mp3
+text "------He wouldn't let the guy keep on living------"
+bgload rnyft.jpg
+text I get up from my sofa.
+text ...It's been three hours since then.
+text I might not make it, but...
+text After all I did, I have to make it on time------!
+sound ~
+bgload kfqjt.jpg
+text I run through the night.
+text Fortunately, I know where his house is.
+text No, I didn't look it up, but it just happens that an acquaintance of mine goes there a lot... though I've never been there myself.
+sound zaslq.mp3
+text "...Honestly, you're just taking on unwanted troubles."
+text Archer has no interest in cooperating.
+text He was against saving the guy when he was dying, and he's against me going to help him right now.
+sound ~
+bgload wvpug.jpg
+text --------It's midnight.
+text Under the cloudy night sky, we reach the Japanese-styled house.
+text There's no sight of anyone in this house on the edge of the residential district.
+text There aren't many houses around it, and there's no one to come and help if something happens here.
+sound lmznj.mp3
+text "--------"
+text My breath is white.
+text A wind starts to pick up.
+text It must be quite strong as the clouds start to drift fast.
+text The supposedly warm wind of Fuyuki sends chills down my spine, making me tremble.
+sound ~
+text Even if Fuyuki City is considered warm, it's still cold on the hill.
+text The air around here is frozen.
+text I strain my ears in the cold atmosphere.
+text In the frozen feeling, I feel a small sense of an enemy.
+sound lvcbm.mp3
+text "...He's here. The Servant from before...!"
+text I bite my lip.
+text His presence is perceptible on the other side of this wall.
+text Lancer is in the house already and about to kill the same guy again, who has just come home without a clue as to what happened.
+sound ~
+sound fulxu.mp3
+text "...I'll just have to jump in and beat him. I'll worry about what comes next when it happens------!"
+text Just as I'm about to command Archer to go in.
+music ~
+sound ~
+sound se259.mp3 1
+bgload special/whiteout.jpg
+sound ~
+bgload deyat.jpg
+delay 60
+sound se136.mp3
+bgload wvpug.jpg
+text A bright white light, like a fallen sun, comes from within the house.
+sound ~
+text "--------"
+text The presence is eclipsed by another presence.
+text The wave of power of the Servant Lancer is consumed by an even larger wave.
+text ...The instantaneous explosion of ether gives the spiritual being a body, summoned to overpower Lancer.
+sound emrvu.mp3
+text "No way..."
+text I can only mutter.
+text But it's true.
+text To prove it------Lancer jumps over the wall and leaps away as if fleeing from this place.
+sound ~
+sound konrs.mp3
+text "...Hey, Archer. Is this another one of your hypothetical scenarios?"
+sound ffdol.mp3
+text "I don't know. But this makes seven. All the Masters are here now, Rin."
+text Archer answers calmly.
+text I've lost my normal judgment.
+text That's why I didn't even consider the obvious event that would follow.
+sound ~
+music bgm12.mp3
+delay 0
+sound se271.mp3
+text The wind blows strongly.
+text Clouds cover the sky like an umbrella.
+text The unlit suburbs are enclosed by darkness.
+bgload ljzvk.jpg
+delay 60
+sound se017.mp3
+text And the Servant jumps over the wall, coming down like a demonic bird------
+sound ~
+sound pdnnl.mp3
+text "--------!"
+text Archer has reacted already.
+text But I couldn't react.
+text That was my mistake.
+text The battle ended with that small opening, not lasting even a second.
+text It might have been only a second for me, but for that Servant, it was an opening that couldn't be ignored.
+sound ~
+text A sword rushes for me.
+delay 0
+sound se018.mp3
+bgload wqgvo.jpg
+bgload muwbr.jpg
+bgload wqgvo.jpg
+sound kpwbw.mp3
+text "Huh, Archer...?"
+text Archer pushes me aside and the Servant slashes him.
+text It happens in an instant.
+text Archer, who handled Lancer's fury of attacks beautifully, has been taken down with one blow------
+sound ~
+sound prg03_rin_11.mp3
+text "Archer, disappear...!"
+delay 24
+sound se141.mp3
+delay 60
+sound se137.mp3
+text But I make it in time this time.
+text Just as the enemy Servant is about to cut off Archer's head with her blade, I forcibly remove him.
+delay 60
+sound se028.mp3
+text A pain in my right hand.
+text It must have been an excessive command, so a Command Spell has disappeared from my hand.
+sound ~
+text ...Now there's only one remaining.
+text But this is for the best.
+text Rather than having Archer die, I would prefer to lose one or two Command Spells...
+delay 0
+sound se104.mp3
+bgload ljzvk.jpg
+text "--------"
+text Giving no consideration to Archer's disappearance, the Servant attacks me.
+sound ofdgg.mp3
+text "------Don't underestimate me!"
+delay 60
+sound se131.mp3
+bgload special/whiteout.jpg
+delay 60
+sound se120.mp3
+delay 60
+sound se121.mp3
+delay 60
+sound se121.mp3
+bgload pvvkh.jpg
+text I take from my pocket a topaz with a wind spell stored in it. Then, I launch all the magical energy it contains at her without processing it...!
+sound ~
+delay 0
+sound se274.mp3
+text This thing, which can blow away a house without a trace, is a bundle of wind spells I've stocked up over time.
+text It's one of the ten jewels I've been putting my magical energy into for seventeen years without rest.
+text I'm using all the magical energy stored in it, so even if I can't defeat her, it should at least slow her down a bit--------
+bgload special/whiteout.jpg
+delay 60
+sound se133.mp3
+text ...No, not even that.
+text It did nothing.
+text The swirl of wind that instantly tears apart anything caught within it disappears like a magic trick the instant it touches the Servant.
+text ...Such strong magic resistance.
+text Mere magical energy from a magus cannot hurt this Servant...!
+sound ~
+delay 0
+sound se104.mp3
+bgload ljzvk.jpg
+bgload wvpug.jpg
+delay 60
+sound se211.mp3
+text ------So, this is it.
+text She can't be hurt by magic, and I've lost the protection of Archer, so I can't stop this Servant.
+text I barely managed to avoid one blow, but that's all.
+text I look up at the night sky.
+text In it is the figure of cold-hearted Death who is looking down at me as I lay miserably on the ground------
+sound ~
+music ~
+bgload etjen.jpg
+sound ~
+sound se006.mp3 1
+bgload a03.jpg
+sound vdlaw.mp3
+text "------Wha..."
+text The wind blows.
+text In between the dark clouds in the spiral sky, the moon shines.
+text The falling moonlight and the beautiful face...
+text This is the Servant that drove off Lancer,
+text defeated my Archer in one strike,
+text and annulled my magic with no trouble.
+sound ~
+sound prg03_sav_00.mp3
+text "That magic was splendid, magus."
+sound ~
+text The girl's voice is like a bell.
+text Yes, this voice is like a nightmare right now.
+text It's only natural.
+text The more beautiful my enemy is, the more of a nightmare it is as I cannot believe the difference in our strength.
+sound tfdnt.mp3
+text "But this is your end, Master of Archer."
+sound ~
+text The point of the sword shines brilliantly.
+text ------On the verge of death, I understand.
+text With just one look, without proof...
+text This is the card I wanted.
+text The one said to be the strongest of all Servants, the hero of the sword.
+delay 0
+sound se271.mp3
+text "----------------"
+text I look up at the moon, accepting my death.
+text There's no time for me to flee or plead for my life.
+text I will die here and Tohsaka Rin's Holy Grail War will end on the third day.
+text There is only disgrace and regret, and I will probably vanish bearing a grudge against my enemy.
+sound ~
+text ------But still, I don't feel anything.
+text Something must really be wrong with me.
+text Even though I'm going to be killed in an instant, I adore her again.
+text That's right.
+text If you ask for regrets, that's it.
+text But I guess it can't be helped.
+text ------Because she's the most powerful Servant.
+text Because her figure is just so heartless, so infinitely valiant, and so beautiful--------
+sound ~
+bgload special/whiteout.jpg
+jump prologue.scr

@@ -1,0 +1,35 @@
+sound ~
+music ~
+setvar ~ ~
+text ~
+if firstcheck == 0
+	text @Please click to begin.
+    jump prologue00.scr
+fi
+gosub title
+delay 5
+music special/title.mp3
+delay 5
+text !
+choice Watch Prologue|Start Game
+#choice Watch Prologue|Start Game|Mou Ikkai
+music ~
+if selected == 1
+    jump prologue00.scr nologo
+fi
+if selected == 2
+    jump fate01-00.scr
+fi
+if selected == 3
+    jump mouikkai.scr
+fi
+
+endscript
+
+label title
+bgload special/title2.jpg
+text @Fate/Stay Night Web v0.1
+text @Translation by Mirror Moon
+text @VNDS Port: anonl
+text @VNDSN Upgrade: ILOVEPIE
+return

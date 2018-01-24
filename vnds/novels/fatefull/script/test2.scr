@@ -1,0 +1,8 @@
+text @test
+text ~
+setvar testtext = hello
+text @$testtext how are you?
+setvar testtext = o
+text @hell{$testtext}, i am good.
+text $$ hello{$$}goodbye
+text !
