@@ -37,13 +37,13 @@ canvas {
 <script>
  	var vnjs;
  	var startcount = 0;
- 	window.url_prefix = "https://github.com/ILOVEPIE/ILOVEPIE.github.io/blob/master";
+ 	window.url_prefix = "https://cors-anywhere.herokuapp.com/github.com/ILOVEPIE/ILOVEPIE.github.io/blob/master/";
  	window.url_suffix = "?raw=true";
 	function start(){
 		if(startcount++ == 1){			
 			vnjs = Object.create(window.VNJS);
 			window.onbeforeunload = function(){vnjs.deinit();};
-			vnjs.init(location.hash==""||typeof(location.hash)=="undefined"||location.hash==null?"fate":location.hash);
+			vnjs.init(location.hash==""||typeof(location.hash)=="undefined"||location.hash==null?"fate":location.hash.substring(1));
 		}
 	}
 </script>
