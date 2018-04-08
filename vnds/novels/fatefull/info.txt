@@ -1,2 +1,2 @@
 title=Fate/Stay Night
-op=FSNOP.mp4
+opening=FSNOP.mp4
