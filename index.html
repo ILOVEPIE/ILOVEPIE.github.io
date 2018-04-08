@@ -41,7 +41,7 @@ canvas {
  	window.url_suffix = "?raw=true";
 	function start(){
 		if(startcount++ == 1){			
-			vnjs = Object.create(window.VNJS);
+			vnjs = Object.create(window.VNJS||window.VNDSPrototype);
 			window.onbeforeunload = function(){vnjs.deinit();};
 			vnjs.init(location.hash==""||typeof(location.hash)=="undefined"||location.hash==null?"fate":location.hash.substring(1));
 		}
